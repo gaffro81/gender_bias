@@ -1,0 +1,11 @@
+Female share of seats on boards of the largest publicly listed companies.csv:
+https://stats.oecd.org/index.aspx?queryid=54753
+
+Share of employed who are managers, by sex.csv:
+https://stats.oecd.org/index.aspx?queryid=54752
+
+Time spent in paid and unpaid work, by sex.csv:
+https://stats.oecd.org/index.aspx?queryid=54757
+
+
+

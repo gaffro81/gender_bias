@@ -1,0 +1,6 @@
+https://databank.worldbank.org/Data/indicator/SG.LEG.SXHR?id=2ddc971b&report_name=Gender_Indicators_Report&populartype=series#
+
+
+interesante Indikatoren
+SG.LAW.EQRM.WK	Law mandates equal remuneration for females and males for work of equal value (1=yes
+SG.LAW.NODC.HR	Law mandates nondiscrimination based on gender in hiring (1=yes

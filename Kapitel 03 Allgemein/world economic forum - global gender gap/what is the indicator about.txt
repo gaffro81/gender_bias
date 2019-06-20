@@ -1,0 +1,11 @@
+Indicator
+Gender Gap Index:
+The report's Gender Gap Index ranks countries according to calculated gender gap between women and men 
+in four key areas: health, education, economy and politics to gauge the state of gender equality in a country. 
+The report measures women's disadvantage compared to men, and is not strictly a measure of equality. 
+Gender imbalances to the advantage of women do not affect the score
+
+So, for example, the indicator "number of years of a female head of state (last 50 years) 
+over male value" would score 1 if the number of years was 25, but would still score 1 if the number of years was 50. 
+Due to this methodology, gender gaps that favor women over men are reported as equality 
+and would not cause deficits of equality in other areas to become less visible in the score, excepted for life expectancy.

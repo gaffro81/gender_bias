@@ -1,0 +1,7 @@
+https://unstats.un.org/unsd/demographic-social/products/dyb/dybcensusdata.cshtml
+
+Female/male ratio at age x:
+http://data.un.org/Data.aspx?d=GenderStat&f=inID%3a8
+
+Life expectancy at birth
+http://data.un.org/Data.aspx?d=GenderStat&f=inID%3a37
