@@ -1,0 +1,925 @@
+Year;Jurisdiction;Score;Female;Male
+2015;International Average (OECD);Averages for PISA mathematics scale;486;494
+2015;Australia;Averages for PISA mathematics scale;491;497
+2015;Austria;Averages for PISA mathematics scale;483;510
+2015;Belgium;Averages for PISA mathematics scale;500;514
+2015;Canada;Averages for PISA mathematics scale;511;520
+2015;Chile;Averages for PISA mathematics scale;413;432
+2015;Czech Republic;Averages for PISA mathematics scale;489;496
+2015;Denmark;Averages for PISA mathematics scale;506;516
+2015;Estonia;Averages for PISA mathematics scale;517;522
+2015;Finland;Averages for PISA mathematics scale;515;507
+2015;France;Averages for PISA mathematics scale;490;496
+2015;Germany;Averages for PISA mathematics scale;498;514
+2015;Greece;Averages for PISA mathematics scale;454;454
+2015;Hungary;Averages for PISA mathematics scale;473;481
+2015;Iceland;Averages for PISA mathematics scale;489;487
+2015;Ireland;Averages for PISA mathematics scale;495;512
+2015;Israel;Averages for PISA mathematics scale;466;474
+2015;Italy;Averages for PISA mathematics scale;480;500
+2015;Japan;Averages for PISA mathematics scale;525;539
+2015;Korea;Averages for PISA mathematics scale;528;521
+2015;Latvia;Averages for PISA mathematics scale;483;481
+2015;Luxembourg;Averages for PISA mathematics scale;480;491
+2015;Mexico;Averages for PISA mathematics scale;404;412
+2015;Netherlands;Averages for PISA mathematics scale;511;513
+2015;New Zealand;Averages for PISA mathematics scale;491;499
+2015;Norway;Averages for PISA mathematics scale;503;501
+2015;Poland;Averages for PISA mathematics scale;499;510
+2015;Portugal;Averages for PISA mathematics scale;487;497
+2015;Slovak Republic;Averages for PISA mathematics scale;472;478
+2015;Slovenia;Averages for PISA mathematics scale;508;512
+2015;Spain;Averages for PISA mathematics scale;478;494
+2015;Sweden;Averages for PISA mathematics scale;495;493
+2015;Switzerland;Averages for PISA mathematics scale;515;527
+2015;Turkey;Averages for PISA mathematics scale;418;423
+2015;United Kingdom;Averages for PISA mathematics scale;487;498
+2015;United States;Averages for PISA mathematics scale;465;474
+2015;Albania;Averages for PISA mathematics scale;NA;NA
+2015;Albania (2015);Averages for PISA mathematics scale;418;409
+2015;Algeria;Averages for PISA mathematics scale;363;356
+2015;Argentina (2015);Averages for PISA mathematics scale;400;418
+2015;Brazil;Averages for PISA mathematics scale;370;385
+2015;B-S-J-G (China);Averages for PISA mathematics scale;528;534
+2015;Bulgaria;Averages for PISA mathematics scale;442;440
+2015;CABA (Argentina);Averages for PISA mathematics scale;446;467
+2015;Colombia;Averages for PISA mathematics scale;384;395
+2015;Costa Rica;Averages for PISA mathematics scale;392;408
+2015;Croatia;Averages for PISA mathematics scale;458;471
+2015;Cyprus;Averages for PISA mathematics scale;440;435
+2015;Dominican Republic;Averages for PISA mathematics scale;330;326
+2015;FYROM;Averages for PISA mathematics scale;375;368
+2015;Georgia;Averages for PISA mathematics scale;411;398
+2015;Hong Kong (China);Averages for PISA mathematics scale;547;549
+2015;Indonesia;Averages for PISA mathematics scale;387;385
+2015;Jordan;Averages for PISA mathematics scale;387;373
+2015;Kazakhstan;Averages for PISA mathematics scale;NA;NA
+2015;Kazakhstan (2015);Averages for PISA mathematics scale;461;459
+2015;Kosovo;Averages for PISA mathematics scale;357;366
+2015;Lebanon;Averages for PISA mathematics scale;386;408
+2015;Lithuania;Averages for PISA mathematics scale;479;478
+2015;Macao (China);Averages for PISA mathematics scale;548;540
+2015;Malaysia;Averages for PISA mathematics scale;NA;NA
+2015;Malaysia (2015);Averages for PISA mathematics scale;449;443
+2015;Malta;Averages for PISA mathematics scale;481;477
+2015;Moldova;Averages for PISA mathematics scale;421;419
+2015;Montenegro;Averages for PISA mathematics scale;418;418
+2015;Peru;Averages for PISA mathematics scale;382;391
+2015;Qatar;Averages for PISA mathematics scale;408;397
+2015;Romania;Averages for PISA mathematics scale;444;444
+2015;Russia;Averages for PISA mathematics scale;491;497
+2015;Singapore;Averages for PISA mathematics scale;564;564
+2015;Chinese Taipei;Averages for PISA mathematics scale;539;545
+2015;Thailand;Averages for PISA mathematics scale;417;414
+2015;Trinidad and Tobago;Averages for PISA mathematics scale;426;408
+2015;Tunisia;Averages for PISA mathematics scale;364;370
+2015;United Arab Emirates;Averages for PISA mathematics scale;431;424
+2015;Uruguay;Averages for PISA mathematics scale;412;425
+2015;Viet Nam;Averages for PISA mathematics scale;496;493
+2012;International Average (OECD);Averages for PISA mathematics scale;489;499
+2012;Australia;Averages for PISA mathematics scale;498;510
+2012;Austria;Averages for PISA mathematics scale;494;517
+2012;Belgium;Averages for PISA mathematics scale;509;520
+2012;Canada;Averages for PISA mathematics scale;513;523
+2012;Chile;Averages for PISA mathematics scale;411;436
+2012;Czech Republic;Averages for PISA mathematics scale;493;505
+2012;Denmark;Averages for PISA mathematics scale;493;507
+2012;Estonia;Averages for PISA mathematics scale;518;523
+2012;Finland;Averages for PISA mathematics scale;520;517
+2012;France;Averages for PISA mathematics scale;491;499
+2012;Germany;Averages for PISA mathematics scale;507;520
+2012;Greece;Averages for PISA mathematics scale;449;457
+2012;Hungary;Averages for PISA mathematics scale;473;482
+2012;Iceland;Averages for PISA mathematics scale;496;490
+2012;Ireland;Averages for PISA mathematics scale;494;509
+2012;Israel;Averages for PISA mathematics scale;461;472
+2012;Italy;Averages for PISA mathematics scale;476;494
+2012;Japan;Averages for PISA mathematics scale;527;545
+2012;Korea;Averages for PISA mathematics scale;544;562
+2012;Latvia;Averages for PISA mathematics scale;493;489
+2012;Luxembourg;Averages for PISA mathematics scale;477;502
+2012;Mexico;Averages for PISA mathematics scale;406;420
+2012;Netherlands;Averages for PISA mathematics scale;518;528
+2012;New Zealand;Averages for PISA mathematics scale;492;507
+2012;Norway;Averages for PISA mathematics scale;488;490
+2012;Poland;Averages for PISA mathematics scale;516;520
+2012;Portugal;Averages for PISA mathematics scale;481;493
+2012;Slovak Republic;Averages for PISA mathematics scale;477;486
+2012;Slovenia;Averages for PISA mathematics scale;499;503
+2012;Spain;Averages for PISA mathematics scale;476;492
+2012;Sweden;Averages for PISA mathematics scale;480;477
+2012;Switzerland;Averages for PISA mathematics scale;524;537
+2012;Turkey;Averages for PISA mathematics scale;444;452
+2012;United Kingdom;Averages for PISA mathematics scale;488;500
+2012;United States;Averages for PISA mathematics scale;479;484
+2012;Albania;Averages for PISA mathematics scale;395;394
+2012;Albania (2015);Averages for PISA mathematics scale;NA;NA
+2012;Algeria;Averages for PISA mathematics scale;NA;NA
+2012;Argentina (2015);Averages for PISA mathematics scale;NA;NA
+2012;Brazil;Averages for PISA mathematics scale;380;397
+2012;B-S-J-G (China);Averages for PISA mathematics scale;NA;NA
+2012;Bulgaria;Averages for PISA mathematics scale;440;438
+2012;CABA (Argentina);Averages for PISA mathematics scale;411;426
+2012;Colombia;Averages for PISA mathematics scale;364;390
+2012;Costa Rica;Averages for PISA mathematics scale;396;420
+2012;Croatia;Averages for PISA mathematics scale;465;477
+2012;Cyprus;Averages for PISA mathematics scale;NA;NA
+2012;Dominican Republic;Averages for PISA mathematics scale;NA;NA
+2012;FYROM;Averages for PISA mathematics scale;NA;NA
+2012;Georgia;Averages for PISA mathematics scale;NA;NA
+2012;Hong Kong (China);Averages for PISA mathematics scale;553;568
+2012;Indonesia;Averages for PISA mathematics scale;373;377
+2012;Jordan;Averages for PISA mathematics scale;396;375
+2012;Kazakhstan;Averages for PISA mathematics scale;432;432
+2012;Kazakhstan (2015);Averages for PISA mathematics scale;NA;NA
+2012;Kosovo;Averages for PISA mathematics scale;NA;NA
+2012;Lebanon;Averages for PISA mathematics scale;NA;NA
+2012;Lithuania;Averages for PISA mathematics scale;479;479
+2012;Macao (China);Averages for PISA mathematics scale;537;540
+2012;Malaysia;Averages for PISA mathematics scale;424;416
+2012;Malaysia (2015);Averages for PISA mathematics scale;NA;NA
+2012;Malta;Averages for PISA mathematics scale;NA;NA
+2012;Moldova;Averages for PISA mathematics scale;NA;NA
+2012;Montenegro;Averages for PISA mathematics scale;410;410
+2012;Peru;Averages for PISA mathematics scale;359;378
+2012;Qatar;Averages for PISA mathematics scale;385;369
+2012;Romania;Averages for PISA mathematics scale;443;447
+2012;Russia;Averages for PISA mathematics scale;483;481
+2012;Singapore;Averages for PISA mathematics scale;575;572
+2012;Chinese Taipei;Averages for PISA mathematics scale;557;563
+2012;Thailand;Averages for PISA mathematics scale;433;419
+2012;Trinidad and Tobago;Averages for PISA mathematics scale;NA;NA
+2012;Tunisia;Averages for PISA mathematics scale;381;396
+2012;United Arab Emirates;Averages for PISA mathematics scale;436;432
+2012;Uruguay;Averages for PISA mathematics scale;404;415
+2012;Viet Nam;Averages for PISA mathematics scale;507;517
+2009;International Average (OECD);Averages for PISA mathematics scale;490;501
+2009;Australia;Averages for PISA mathematics scale;509;519
+2009;Austria;Averages for PISA mathematics scale;486;506
+2009;Belgium;Averages for PISA mathematics scale;504;526
+2009;Canada;Averages for PISA mathematics scale;521;533
+2009;Chile;Averages for PISA mathematics scale;410;431
+2009;Czech Republic;Averages for PISA mathematics scale;490;495
+2009;Denmark;Averages for PISA mathematics scale;495;511
+2009;Estonia;Averages for PISA mathematics scale;508;516
+2009;Finland;Averages for PISA mathematics scale;539;542
+2009;France;Averages for PISA mathematics scale;489;505
+2009;Germany;Averages for PISA mathematics scale;505;520
+2009;Greece;Averages for PISA mathematics scale;459;473
+2009;Hungary;Averages for PISA mathematics scale;484;496
+2009;Iceland;Averages for PISA mathematics scale;505;508
+2009;Ireland;Averages for PISA mathematics scale;483;491
+2009;Israel;Averages for PISA mathematics scale;443;451
+2009;Italy;Averages for PISA mathematics scale;475;490
+2009;Japan;Averages for PISA mathematics scale;524;534
+2009;Korea;Averages for PISA mathematics scale;544;548
+2009;Latvia;Averages for PISA mathematics scale;481;483
+2009;Luxembourg;Averages for PISA mathematics scale;479;499
+2009;Mexico;Averages for PISA mathematics scale;412;425
+2009;Netherlands;Averages for PISA mathematics scale;517;534
+2009;New Zealand;Averages for PISA mathematics scale;515;523
+2009;Norway;Averages for PISA mathematics scale;495;500
+2009;Poland;Averages for PISA mathematics scale;493;497
+2009;Portugal;Averages for PISA mathematics scale;481;493
+2009;Slovak Republic;Averages for PISA mathematics scale;495;498
+2009;Slovenia;Averages for PISA mathematics scale;501;502
+2009;Spain;Averages for PISA mathematics scale;474;493
+2009;Sweden;Averages for PISA mathematics scale;495;493
+2009;Switzerland;Averages for PISA mathematics scale;524;544
+2009;Turkey;Averages for PISA mathematics scale;440;451
+2009;United Kingdom;Averages for PISA mathematics scale;482;503
+2009;United States;Averages for PISA mathematics scale;477;497
+2009;Albania;Averages for PISA mathematics scale;383;372
+2009;Albania (2015);Averages for PISA mathematics scale;NA;NA
+2009;Algeria;Averages for PISA mathematics scale;NA;NA
+2009;Argentina (2015);Averages for PISA mathematics scale;NA;NA
+2009;Brazil;Averages for PISA mathematics scale;379;394
+2009;B-S-J-G (China);Averages for PISA mathematics scale;NA;NA
+2009;Bulgaria;Averages for PISA mathematics scale;430;426
+2009;CABA (Argentina);Averages for PISA mathematics scale;NA;NA
+2009;Colombia;Averages for PISA mathematics scale;366;398
+2009;Costa Rica;Averages for PISA mathematics scale;NA;NA
+2009;Croatia;Averages for PISA mathematics scale;454;465
+2009;Cyprus;Averages for PISA mathematics scale;NA;NA
+2009;Dominican Republic;Averages for PISA mathematics scale;NA;NA
+2009;FYROM;Averages for PISA mathematics scale;NA;NA
+2009;Georgia;Averages for PISA mathematics scale;NA;NA
+2009;Hong Kong (China);Averages for PISA mathematics scale;547;561
+2009;Indonesia;Averages for PISA mathematics scale;372;371
+2009;Jordan;Averages for PISA mathematics scale;387;386
+2009;Kazakhstan;Averages for PISA mathematics scale;405;405
+2009;Kazakhstan (2015);Averages for PISA mathematics scale;NA;NA
+2009;Kosovo;Averages for PISA mathematics scale;NA;NA
+2009;Lebanon;Averages for PISA mathematics scale;NA;NA
+2009;Lithuania;Averages for PISA mathematics scale;480;474
+2009;Macao (China);Averages for PISA mathematics scale;520;531
+2009;Malaysia;Averages for PISA mathematics scale;NA;NA
+2009;Malaysia (2015);Averages for PISA mathematics scale;NA;NA
+2009;Malta;Averages for PISA mathematics scale;NA;NA
+2009;Moldova;Averages for PISA mathematics scale;NA;NA
+2009;Montenegro;Averages for PISA mathematics scale;396;408
+2009;Peru;Averages for PISA mathematics scale;356;374
+2009;Qatar;Averages for PISA mathematics scale;371;366
+2009;Romania;Averages for PISA mathematics scale;425;429
+2009;Russia;Averages for PISA mathematics scale;467;469
+2009;Singapore;Averages for PISA mathematics scale;559;565
+2009;Chinese Taipei;Averages for PISA mathematics scale;541;546
+2009;Thailand;Averages for PISA mathematics scale;417;421
+2009;Trinidad and Tobago;Averages for PISA mathematics scale;418;410
+2009;Tunisia;Averages for PISA mathematics scale;366;378
+2009;United Arab Emirates;Averages for PISA mathematics scale;NA;NA
+2009;Uruguay;Averages for PISA mathematics scale;421;433
+2009;Viet Nam;Averages for PISA mathematics scale;NA;NA
+2006;International Average (OECD);Averages for PISA mathematics scale;488;499
+2006;Australia;Averages for PISA mathematics scale;513;527
+2006;Austria;Averages for PISA mathematics scale;494;517
+2006;Belgium;Averages for PISA mathematics scale;517;524
+2006;Canada;Averages for PISA mathematics scale;520;534
+2006;Chile;Averages for PISA mathematics scale;396;424
+2006;Czech Republic;Averages for PISA mathematics scale;504;514
+2006;Denmark;Averages for PISA mathematics scale;508;518
+2006;Estonia;Averages for PISA mathematics scale;514;515
+2006;Finland;Averages for PISA mathematics scale;543;554
+2006;France;Averages for PISA mathematics scale;492;499
+2006;Germany;Averages for PISA mathematics scale;494;513
+2006;Greece;Averages for PISA mathematics scale;457;462
+2006;Hungary;Averages for PISA mathematics scale;486;496
+2006;Iceland;Averages for PISA mathematics scale;508;503
+2006;Ireland;Averages for PISA mathematics scale;496;507
+2006;Israel;Averages for PISA mathematics scale;436;448
+2006;Italy;Averages for PISA mathematics scale;453;470
+2006;Japan;Averages for PISA mathematics scale;513;533
+2006;Korea;Averages for PISA mathematics scale;543;552
+2006;Latvia;Averages for PISA mathematics scale;484;489
+2006;Luxembourg;Averages for PISA mathematics scale;482;498
+2006;Mexico;Averages for PISA mathematics scale;401;410
+2006;Netherlands;Averages for PISA mathematics scale;524;537
+2006;New Zealand;Averages for PISA mathematics scale;517;527
+2006;Norway;Averages for PISA mathematics scale;487;493
+2006;Poland;Averages for PISA mathematics scale;491;500
+2006;Portugal;Averages for PISA mathematics scale;459;474
+2006;Slovak Republic;Averages for PISA mathematics scale;485;499
+2006;Slovenia;Averages for PISA mathematics scale;502;507
+2006;Spain;Averages for PISA mathematics scale;476;484
+2006;Sweden;Averages for PISA mathematics scale;500;505
+2006;Switzerland;Averages for PISA mathematics scale;523;536
+2006;Turkey;Averages for PISA mathematics scale;421;427
+2006;United Kingdom;Averages for PISA mathematics scale;487;504
+2006;United States;Averages for PISA mathematics scale;470;479
+2006;Albania;Averages for PISA mathematics scale;NA;NA
+2006;Albania (2015);Averages for PISA mathematics scale;NA;NA
+2006;Algeria;Averages for PISA mathematics scale;NA;NA
+2006;Argentina (2015);Averages for PISA mathematics scale;NA;NA
+2006;Brazil;Averages for PISA mathematics scale;361;380
+2006;B-S-J-G (China);Averages for PISA mathematics scale;NA;NA
+2006;Bulgaria;Averages for PISA mathematics scale;415;412
+2006;CABA (Argentina);Averages for PISA mathematics scale;NA;NA
+2006;Colombia;Averages for PISA mathematics scale;360;382
+2006;Costa Rica;Averages for PISA mathematics scale;NA;NA
+2006;Croatia;Averages for PISA mathematics scale;461;474
+2006;Cyprus;Averages for PISA mathematics scale;NA;NA
+2006;Dominican Republic;Averages for PISA mathematics scale;NA;NA
+2006;FYROM;Averages for PISA mathematics scale;NA;NA
+2006;Georgia;Averages for PISA mathematics scale;NA;NA
+2006;Hong Kong (China);Averages for PISA mathematics scale;540;555
+2006;Indonesia;Averages for PISA mathematics scale;382;399
+2006;Jordan;Averages for PISA mathematics scale;388;381
+2006;Kazakhstan;Averages for PISA mathematics scale;NA;NA
+2006;Kazakhstan (2015);Averages for PISA mathematics scale;NA;NA
+2006;Kosovo;Averages for PISA mathematics scale;NA;NA
+2006;Lebanon;Averages for PISA mathematics scale;NA;NA
+2006;Lithuania;Averages for PISA mathematics scale;485;487
+2006;Macao (China);Averages for PISA mathematics scale;520;530
+2006;Malaysia;Averages for PISA mathematics scale;NA;NA
+2006;Malaysia (2015);Averages for PISA mathematics scale;NA;NA
+2006;Malta;Averages for PISA mathematics scale;NA;NA
+2006;Moldova;Averages for PISA mathematics scale;NA;NA
+2006;Montenegro;Averages for PISA mathematics scale;393;405
+2006;Peru;Averages for PISA mathematics scale;NA;NA
+2006;Qatar;Averages for PISA mathematics scale;325;311
+2006;Romania;Averages for PISA mathematics scale;412;418
+2006;Russia;Averages for PISA mathematics scale;473;479
+2006;Singapore;Averages for PISA mathematics scale;NA;NA
+2006;Chinese Taipei;Averages for PISA mathematics scale;543;556
+2006;Thailand;Averages for PISA mathematics scale;420;413
+2006;Trinidad and Tobago;Averages for PISA mathematics scale;NA;NA
+2006;Tunisia;Averages for PISA mathematics scale;358;373
+2006;United Arab Emirates;Averages for PISA mathematics scale;NA;NA
+2006;Uruguay;Averages for PISA mathematics scale;420;433
+2006;Viet Nam;Averages for PISA mathematics scale;NA;NA
+2015;International Average (OECD);Averages for PISA reading scale;506;479
+2015;Australia;Averages for PISA reading scale;519;487
+2015;Austria;Averages for PISA reading scale;495;475
+2015;Belgium;Averages for PISA reading scale;507;491
+2015;Canada;Averages for PISA reading scale;540;514
+2015;Chile;Averages for PISA reading scale;465;453
+2015;Czech Republic;Averages for PISA reading scale;501;475
+2015;Denmark;Averages for PISA reading scale;511;489
+2015;Estonia;Averages for PISA reading scale;533;505
+2015;Finland;Averages for PISA reading scale;551;504
+2015;France;Averages for PISA reading scale;514;485
+2015;Germany;Averages for PISA reading scale;520;499
+2015;Greece;Averages for PISA reading scale;486;449
+2015;Hungary;Averages for PISA reading scale;482;457
+2015;Iceland;Averages for PISA reading scale;502;460
+2015;Ireland;Averages for PISA reading scale;527;515
+2015;Israel;Averages for PISA reading scale;490;467
+2015;Italy;Averages for PISA reading scale;493;477
+2015;Japan;Averages for PISA reading scale;523;509
+2015;Korea;Averages for PISA reading scale;539;498
+2015;Latvia;Averages for PISA reading scale;509;467
+2015;Luxembourg;Averages for PISA reading scale;492;471
+2015;Mexico;Averages for PISA reading scale;431;416
+2015;Netherlands;Averages for PISA reading scale;515;491
+2015;New Zealand;Averages for PISA reading scale;526;493
+2015;Norway;Averages for PISA reading scale;533;494
+2015;Poland;Averages for PISA reading scale;521;491
+2015;Portugal;Averages for PISA reading scale;507;490
+2015;Slovak Republic;Averages for PISA reading scale;471;435
+2015;Slovenia;Averages for PISA reading scale;528;484
+2015;Spain;Averages for PISA reading scale;506;485
+2015;Sweden;Averages for PISA reading scale;520;481
+2015;Switzerland;Averages for PISA reading scale;505;480
+2015;Turkey;Averages for PISA reading scale;442;414
+2015;United Kingdom;Averages for PISA reading scale;509;487
+2015;United States;Averages for PISA reading scale;507;487
+2015;Albania;Averages for PISA reading scale;NA;NA
+2015;Albania (2015);Averages for PISA reading scale;435;376
+2015;Algeria;Averages for PISA reading scale;366;335
+2015;Argentina (2015);Averages for PISA reading scale;433;417
+2015;Brazil;Averages for PISA reading scale;419;395
+2015;B-S-J-G (China);Averages for PISA reading scale;503;486
+2015;Bulgaria;Averages for PISA reading scale;457;409
+2015;CABA (Argentina);Averages for PISA reading scale;483;468
+2015;Colombia;Averages for PISA reading scale;432;417
+2015;Costa Rica;Averages for PISA reading scale;435;420
+2015;Croatia;Averages for PISA reading scale;500;473
+2015;Cyprus;Averages for PISA reading scale;469;417
+2015;Dominican Republic;Averages for PISA reading scale;373;342
+2015;FYROM;Averages for PISA reading scale;376;330
+2015;Georgia;Averages for PISA reading scale;432;374
+2015;Hong Kong (China);Averages for PISA reading scale;541;513
+2015;Indonesia;Averages for PISA reading scale;409;386
+2015;Jordan;Averages for PISA reading scale;444;372
+2015;Kazakhstan;Averages for PISA reading scale;NA;NA
+2015;Kazakhstan (2015);Averages for PISA reading scale;435;419
+2015;Kosovo;Averages for PISA reading scale;365;329
+2015;Lebanon;Averages for PISA reading scale;353;339
+2015;Lithuania;Averages for PISA reading scale;492;453
+2015;Macao (China);Averages for PISA reading scale;525;493
+2015;Malaysia;Averages for PISA reading scale;NA;NA
+2015;Malaysia (2015);Averages for PISA reading scale;445;414
+2015;Malta;Averages for PISA reading scale;468;426
+2015;Moldova;Averages for PISA reading scale;442;390
+2015;Montenegro;Averages for PISA reading scale;444;410
+2015;Peru;Averages for PISA reading scale;401;394
+2015;Qatar;Averages for PISA reading scale;429;376
+2015;Romania;Averages for PISA reading scale;442;425
+2015;Russia;Averages for PISA reading scale;507;481
+2015;Singapore;Averages for PISA reading scale;546;525
+2015;Chinese Taipei;Averages for PISA reading scale;510;485
+2015;Thailand;Averages for PISA reading scale;423;392
+2015;Trinidad and Tobago;Averages for PISA reading scale;452;401
+2015;Tunisia;Averages for PISA reading scale;373;348
+2015;United Arab Emirates;Averages for PISA reading scale;458;408
+2015;Uruguay;Averages for PISA reading scale;448;424
+2015;Viet Nam;Averages for PISA reading scale;499;474
+2012;International Average (OECD);Averages for PISA reading scale;515;477
+2012;Australia;Averages for PISA reading scale;530;495
+2012;Austria;Averages for PISA reading scale;508;471
+2012;Belgium;Averages for PISA reading scale;525;493
+2012;Canada;Averages for PISA reading scale;541;506
+2012;Chile;Averages for PISA reading scale;452;430
+2012;Czech Republic;Averages for PISA reading scale;513;474
+2012;Denmark;Averages for PISA reading scale;512;481
+2012;Estonia;Averages for PISA reading scale;538;494
+2012;Finland;Averages for PISA reading scale;556;494
+2012;France;Averages for PISA reading scale;527;483
+2012;Germany;Averages for PISA reading scale;530;486
+2012;Greece;Averages for PISA reading scale;502;452
+2012;Hungary;Averages for PISA reading scale;508;468
+2012;Iceland;Averages for PISA reading scale;508;457
+2012;Ireland;Averages for PISA reading scale;538;509
+2012;Israel;Averages for PISA reading scale;507;463
+2012;Italy;Averages for PISA reading scale;510;471
+2012;Japan;Averages for PISA reading scale;551;527
+2012;Korea;Averages for PISA reading scale;548;525
+2012;Latvia;Averages for PISA reading scale;516;462
+2012;Luxembourg;Averages for PISA reading scale;503;473
+2012;Mexico;Averages for PISA reading scale;435;411
+2012;Netherlands;Averages for PISA reading scale;525;498
+2012;New Zealand;Averages for PISA reading scale;530;495
+2012;Norway;Averages for PISA reading scale;528;481
+2012;Poland;Averages for PISA reading scale;539;497
+2012;Portugal;Averages for PISA reading scale;508;468
+2012;Slovak Republic;Averages for PISA reading scale;483;444
+2012;Slovenia;Averages for PISA reading scale;510;454
+2012;Spain;Averages for PISA reading scale;503;474
+2012;Sweden;Averages for PISA reading scale;509;458
+2012;Switzerland;Averages for PISA reading scale;527;491
+2012;Turkey;Averages for PISA reading scale;499;453
+2012;United Kingdom;Averages for PISA reading scale;512;487
+2012;United States;Averages for PISA reading scale;513;482
+2012;Albania;Averages for PISA reading scale;401;387
+2012;Albania (2015);Averages for PISA reading scale;NA;NA
+2012;Algeria;Averages for PISA reading scale;NA;NA
+2012;Argentina (2015);Averages for PISA reading scale;NA;NA
+2012;Brazil;Averages for PISA reading scale;422;390
+2012;B-S-J-G (China);Averages for PISA reading scale;NA;NA
+2012;Bulgaria;Averages for PISA reading scale;472;403
+2012;CABA (Argentina);Averages for PISA reading scale;441;416
+2012;Colombia;Averages for PISA reading scale;412;394
+2012;Costa Rica;Averages for PISA reading scale;452;427
+2012;Croatia;Averages for PISA reading scale;509;461
+2012;Cyprus;Averages for PISA reading scale;NA;NA
+2012;Dominican Republic;Averages for PISA reading scale;NA;NA
+2012;FYROM;Averages for PISA reading scale;NA;NA
+2012;Georgia;Averages for PISA reading scale;NA;NA
+2012;Hong Kong (China);Averages for PISA reading scale;558;533
+2012;Indonesia;Averages for PISA reading scale;410;382
+2012;Jordan;Averages for PISA reading scale;436;361
+2012;Kazakhstan;Averages for PISA reading scale;411;374
+2012;Kazakhstan (2015);Averages for PISA reading scale;NA;NA
+2012;Kosovo;Averages for PISA reading scale;NA;NA
+2012;Lebanon;Averages for PISA reading scale;NA;NA
+2012;Lithuania;Averages for PISA reading scale;505;450
+2012;Macao (China);Averages for PISA reading scale;527;492
+2012;Malaysia;Averages for PISA reading scale;418;377
+2012;Malaysia (2015);Averages for PISA reading scale;NA;NA
+2012;Malta;Averages for PISA reading scale;NA;NA
+2012;Moldova;Averages for PISA reading scale;NA;NA
+2012;Montenegro;Averages for PISA reading scale;453;391
+2012;Peru;Averages for PISA reading scale;395;373
+2012;Qatar;Averages for PISA reading scale;424;354
+2012;Romania;Averages for PISA reading scale;457;417
+2012;Russia;Averages for PISA reading scale;495;455
+2012;Singapore;Averages for PISA reading scale;559;527
+2012;Chinese Taipei;Averages for PISA reading scale;539;507
+2012;Thailand;Averages for PISA reading scale;465;410
+2012;Trinidad and Tobago;Averages for PISA reading scale;NA;NA
+2012;Tunisia;Averages for PISA reading scale;418;388
+2012;United Arab Emirates;Averages for PISA reading scale;469;413
+2012;Uruguay;Averages for PISA reading scale;428;392
+2012;Viet Nam;Averages for PISA reading scale;523;492
+2009;International Average (OECD);Averages for PISA reading scale;513;474
+2009;Australia;Averages for PISA reading scale;533;496
+2009;Austria;Averages for PISA reading scale;490;449
+2009;Belgium;Averages for PISA reading scale;520;493
+2009;Canada;Averages for PISA reading scale;542;507
+2009;Chile;Averages for PISA reading scale;461;439
+2009;Czech Republic;Averages for PISA reading scale;504;456
+2009;Denmark;Averages for PISA reading scale;509;480
+2009;Estonia;Averages for PISA reading scale;524;480
+2009;Finland;Averages for PISA reading scale;563;508
+2009;France;Averages for PISA reading scale;515;475
+2009;Germany;Averages for PISA reading scale;518;478
+2009;Greece;Averages for PISA reading scale;506;459
+2009;Hungary;Averages for PISA reading scale;513;475
+2009;Iceland;Averages for PISA reading scale;522;478
+2009;Ireland;Averages for PISA reading scale;515;476
+2009;Israel;Averages for PISA reading scale;495;452
+2009;Italy;Averages for PISA reading scale;510;464
+2009;Japan;Averages for PISA reading scale;540;501
+2009;Korea;Averages for PISA reading scale;558;523
+2009;Latvia;Averages for PISA reading scale;507;460
+2009;Luxembourg;Averages for PISA reading scale;492;453
+2009;Mexico;Averages for PISA reading scale;438;413
+2009;Netherlands;Averages for PISA reading scale;521;496
+2009;New Zealand;Averages for PISA reading scale;544;499
+2009;Norway;Averages for PISA reading scale;527;480
+2009;Poland;Averages for PISA reading scale;525;476
+2009;Portugal;Averages for PISA reading scale;508;470
+2009;Slovak Republic;Averages for PISA reading scale;503;452
+2009;Slovenia;Averages for PISA reading scale;511;456
+2009;Spain;Averages for PISA reading scale;496;467
+2009;Sweden;Averages for PISA reading scale;521;475
+2009;Switzerland;Averages for PISA reading scale;520;481
+2009;Turkey;Averages for PISA reading scale;486;443
+2009;United Kingdom;Averages for PISA reading scale;507;481
+2009;United States;Averages for PISA reading scale;513;488
+2009;Albania;Averages for PISA reading scale;417;355
+2009;Albania (2015);Averages for PISA reading scale;NA;NA
+2009;Algeria;Averages for PISA reading scale;NA;NA
+2009;Argentina (2015);Averages for PISA reading scale;NA;NA
+2009;Brazil;Averages for PISA reading scale;425;397
+2009;B-S-J-G (China);Averages for PISA reading scale;NA;NA
+2009;Bulgaria;Averages for PISA reading scale;461;400
+2009;CABA (Argentina);Averages for PISA reading scale;NA;NA
+2009;Colombia;Averages for PISA reading scale;418;408
+2009;Costa Rica;Averages for PISA reading scale;NA;NA
+2009;Croatia;Averages for PISA reading scale;503;452
+2009;Cyprus;Averages for PISA reading scale;NA;NA
+2009;Dominican Republic;Averages for PISA reading scale;NA;NA
+2009;FYROM;Averages for PISA reading scale;NA;NA
+2009;Georgia;Averages for PISA reading scale;NA;NA
+2009;Hong Kong (China);Averages for PISA reading scale;550;518
+2009;Indonesia;Averages for PISA reading scale;420;383
+2009;Jordan;Averages for PISA reading scale;434;377
+2009;Kazakhstan;Averages for PISA reading scale;412;369
+2009;Kazakhstan (2015);Averages for PISA reading scale;NA;NA
+2009;Kosovo;Averages for PISA reading scale;NA;NA
+2009;Lebanon;Averages for PISA reading scale;NA;NA
+2009;Lithuania;Averages for PISA reading scale;498;439
+2009;Macao (China);Averages for PISA reading scale;504;470
+2009;Malaysia;Averages for PISA reading scale;NA;NA
+2009;Malaysia (2015);Averages for PISA reading scale;NA;NA
+2009;Malta;Averages for PISA reading scale;NA;NA
+2009;Moldova;Averages for PISA reading scale;NA;NA
+2009;Montenegro;Averages for PISA reading scale;434;382
+2009;Peru;Averages for PISA reading scale;381;359
+2009;Qatar;Averages for PISA reading scale;397;347
+2009;Romania;Averages for PISA reading scale;445;403
+2009;Russia;Averages for PISA reading scale;482;437
+2009;Singapore;Averages for PISA reading scale;542;511
+2009;Chinese Taipei;Averages for PISA reading scale;514;477
+2009;Thailand;Averages for PISA reading scale;438;400
+2009;Trinidad and Tobago;Averages for PISA reading scale;445;387
+2009;Tunisia;Averages for PISA reading scale;418;387
+2009;United Arab Emirates;Averages for PISA reading scale;NA;NA
+2009;Uruguay;Averages for PISA reading scale;445;404
+2009;Viet Nam;Averages for PISA reading scale;NA;NA
+2006;International Average (OECD);Averages for PISA reading scale;508;470
+2006;Australia;Averages for PISA reading scale;532;495
+2006;Austria;Averages for PISA reading scale;513;468
+2006;Belgium;Averages for PISA reading scale;522;482
+2006;Canada;Averages for PISA reading scale;543;511
+2006;Chile;Averages for PISA reading scale;451;434
+2006;Czech Republic;Averages for PISA reading scale;509;463
+2006;Denmark;Averages for PISA reading scale;509;480
+2006;Estonia;Averages for PISA reading scale;524;478
+2006;Finland;Averages for PISA reading scale;572;521
+2006;France;Averages for PISA reading scale;505;470
+2006;Germany;Averages for PISA reading scale;517;475
+2006;Greece;Averages for PISA reading scale;488;432
+2006;Hungary;Averages for PISA reading scale;503;463
+2006;Iceland;Averages for PISA reading scale;509;460
+2006;Ireland;Averages for PISA reading scale;534;500
+2006;Israel;Averages for PISA reading scale;460;417
+2006;Italy;Averages for PISA reading scale;489;448
+2006;Japan;Averages for PISA reading scale;513;483
+2006;Korea;Averages for PISA reading scale;574;539
+2006;Latvia;Averages for PISA reading scale;504;454
+2006;Luxembourg;Averages for PISA reading scale;495;464
+2006;Mexico;Averages for PISA reading scale;427;393
+2006;Netherlands;Averages for PISA reading scale;519;495
+2006;New Zealand;Averages for PISA reading scale;539;502
+2006;Norway;Averages for PISA reading scale;508;462
+2006;Poland;Averages for PISA reading scale;528;487
+2006;Portugal;Averages for PISA reading scale;488;455
+2006;Slovak Republic;Averages for PISA reading scale;488;446
+2006;Slovenia;Averages for PISA reading scale;521;467
+2006;Spain;Averages for PISA reading scale;479;443
+2006;Sweden;Averages for PISA reading scale;528;488
+2006;Switzerland;Averages for PISA reading scale;515;484
+2006;Turkey;Averages for PISA reading scale;471;427
+2006;United Kingdom;Averages for PISA reading scale;510;480
+2006;United States;Averages for PISA reading scale;NA;NA
+2006;Albania;Averages for PISA reading scale;NA;NA
+2006;Albania (2015);Averages for PISA reading scale;NA;NA
+2006;Algeria;Averages for PISA reading scale;NA;NA
+2006;Argentina (2015);Averages for PISA reading scale;NA;NA
+2006;Brazil;Averages for PISA reading scale;408;376
+2006;B-S-J-G (China);Averages for PISA reading scale;NA;NA
+2006;Bulgaria;Averages for PISA reading scale;432;374
+2006;CABA (Argentina);Averages for PISA reading scale;NA;NA
+2006;Colombia;Averages for PISA reading scale;394;375
+2006;Costa Rica;Averages for PISA reading scale;NA;NA
+2006;Croatia;Averages for PISA reading scale;502;452
+2006;Cyprus;Averages for PISA reading scale;NA;NA
+2006;Dominican Republic;Averages for PISA reading scale;NA;NA
+2006;FYROM;Averages for PISA reading scale;NA;NA
+2006;Georgia;Averages for PISA reading scale;NA;NA
+2006;Hong Kong (China);Averages for PISA reading scale;551;520
+2006;Indonesia;Averages for PISA reading scale;402;384
+2006;Jordan;Averages for PISA reading scale;428;373
+2006;Kazakhstan;Averages for PISA reading scale;NA;NA
+2006;Kazakhstan (2015);Averages for PISA reading scale;NA;NA
+2006;Kosovo;Averages for PISA reading scale;NA;NA
+2006;Lebanon;Averages for PISA reading scale;NA;NA
+2006;Lithuania;Averages for PISA reading scale;496;445
+2006;Macao (China);Averages for PISA reading scale;505;479
+2006;Malaysia;Averages for PISA reading scale;NA;NA
+2006;Malaysia (2015);Averages for PISA reading scale;NA;NA
+2006;Malta;Averages for PISA reading scale;NA;NA
+2006;Moldova;Averages for PISA reading scale;NA;NA
+2006;Montenegro;Averages for PISA reading scale;415;370
+2006;Peru;Averages for PISA reading scale;NA;NA
+2006;Qatar;Averages for PISA reading scale;346;280
+2006;Romania;Averages for PISA reading scale;418;374
+2006;Russia;Averages for PISA reading scale;458;420
+2006;Singapore;Averages for PISA reading scale;NA;NA
+2006;Chinese Taipei;Averages for PISA reading scale;507;486
+2006;Thailand;Averages for PISA reading scale;440;386
+2006;Trinidad and Tobago;Averages for PISA reading scale;NA;NA
+2006;Tunisia;Averages for PISA reading scale;398;361
+2006;United Arab Emirates;Averages for PISA reading scale;NA;NA
+2006;Uruguay;Averages for PISA reading scale;435;389
+2006;Viet Nam;Averages for PISA reading scale;NA;NA
+2015;International Average (OECD);Averages for PISA science scale;491;495
+2015;Australia;Averages for PISA science scale;509;511
+2015;Austria;Averages for PISA science scale;486;504
+2015;Belgium;Averages for PISA science scale;496;508
+2015;Canada;Averages for PISA science scale;527;528
+2015;Chile;Averages for PISA science scale;440;454
+2015;Czech Republic;Averages for PISA science scale;488;497
+2015;Denmark;Averages for PISA science scale;499;505
+2015;Estonia;Averages for PISA science scale;533;536
+2015;Finland;Averages for PISA science scale;541;521
+2015;France;Averages for PISA science scale;494;496
+2015;Germany;Averages for PISA science scale;504;514
+2015;Greece;Averages for PISA science scale;459;451
+2015;Hungary;Averages for PISA science scale;475;478
+2015;Iceland;Averages for PISA science scale;475;472
+2015;Ireland;Averages for PISA science scale;497;508
+2015;Israel;Averages for PISA science scale;464;469
+2015;Italy;Averages for PISA science scale;472;489
+2015;Japan;Averages for PISA science scale;532;545
+2015;Korea;Averages for PISA science scale;521;511
+2015;Latvia;Averages for PISA science scale;496;485
+2015;Luxembourg;Averages for PISA science scale;479;487
+2015;Mexico;Averages for PISA science scale;412;420
+2015;Netherlands;Averages for PISA science scale;507;511
+2015;New Zealand;Averages for PISA science scale;511;516
+2015;Norway;Averages for PISA science scale;497;500
+2015;Poland;Averages for PISA science scale;498;504
+2015;Portugal;Averages for PISA science scale;496;506
+2015;Slovak Republic;Averages for PISA science scale;461;460
+2015;Slovenia;Averages for PISA science scale;516;510
+2015;Spain;Averages for PISA science scale;489;496
+2015;Sweden;Averages for PISA science scale;496;491
+2015;Switzerland;Averages for PISA science scale;502;508
+2015;Turkey;Averages for PISA science scale;429;422
+2015;United Kingdom;Averages for PISA science scale;509;510
+2015;United States;Averages for PISA science scale;493;500
+2015;Albania;Averages for PISA science scale;NA;NA
+2015;Albania (2015);Averages for PISA science scale;439;415
+2015;Algeria;Averages for PISA science scale;383;369
+2015;Argentina (2015);Averages for PISA science scale;425;440
+2015;Brazil;Averages for PISA science scale;399;403
+2015;B-S-J-G (China);Averages for PISA science scale;513;522
+2015;Bulgaria;Averages for PISA science scale;454;438
+2015;CABA (Argentina);Averages for PISA science scale;468;483
+2015;Colombia;Averages for PISA science scale;411;421
+2015;Costa Rica;Averages for PISA science scale;411;429
+2015;Croatia;Averages for PISA science scale;473;478
+2015;Cyprus;Averages for PISA science scale;441;424
+2015;Dominican Republic;Averages for PISA science scale;331;332
+2015;FYROM;Averages for PISA science scale;394;374
+2015;Georgia;Averages for PISA science scale;420;403
+2015;Hong Kong (China);Averages for PISA science scale;524;523
+2015;Indonesia;Averages for PISA science scale;405;401
+2015;Jordan;Averages for PISA science scale;428;389
+2015;Kazakhstan;Averages for PISA science scale;NA;NA
+2015;Kazakhstan (2015);Averages for PISA science scale;458;455
+2015;Kosovo;Averages for PISA science scale;383;374
+2015;Lebanon;Averages for PISA science scale;386;388
+2015;Lithuania;Averages for PISA science scale;479;472
+2015;Macao (China);Averages for PISA science scale;532;525
+2015;Malaysia;Averages for PISA science scale;NA;NA
+2015;Malaysia (2015);Averages for PISA science scale;445;441
+2015;Malta;Averages for PISA science scale;470;460
+2015;Moldova;Averages for PISA science scale;431;425
+2015;Montenegro;Averages for PISA science scale;414;409
+2015;Peru;Averages for PISA science scale;392;402
+2015;Qatar;Averages for PISA science scale;429;406
+2015;Romania;Averages for PISA science scale;438;432
+2015;Russia;Averages for PISA science scale;485;489
+2015;Singapore;Averages for PISA science scale;552;559
+2015;Chinese Taipei;Averages for PISA science scale;530;535
+2015;Thailand;Averages for PISA science scale;425;416
+2015;Trinidad and Tobago;Averages for PISA science scale;435;414
+2015;Tunisia;Averages for PISA science scale;385;388
+2015;United Arab Emirates;Averages for PISA science scale;449;424
+2015;Uruguay;Averages for PISA science scale;431;440
+2015;Viet Nam;Averages for PISA science scale;526;523
+2012;International Average (OECD);Averages for PISA science scale;501;502
+2012;Australia;Averages for PISA science scale;519;524
+2012;Austria;Averages for PISA science scale;501;510
+2012;Belgium;Averages for PISA science scale;503;507
+2012;Canada;Averages for PISA science scale;524;527
+2012;Chile;Averages for PISA science scale;442;448
+2012;Czech Republic;Averages for PISA science scale;508;509
+2012;Denmark;Averages for PISA science scale;493;504
+2012;Estonia;Averages for PISA science scale;543;540
+2012;Finland;Averages for PISA science scale;554;537
+2012;France;Averages for PISA science scale;500;498
+2012;Germany;Averages for PISA science scale;524;524
+2012;Greece;Averages for PISA science scale;473;460
+2012;Hungary;Averages for PISA science scale;493;496
+2012;Iceland;Averages for PISA science scale;480;477
+2012;Ireland;Averages for PISA science scale;520;524
+2012;Israel;Averages for PISA science scale;470;470
+2012;Italy;Averages for PISA science scale;492;495
+2012;Japan;Averages for PISA science scale;541;552
+2012;Korea;Averages for PISA science scale;536;539
+2012;Latvia;Averages for PISA science scale;510;495
+2012;Luxembourg;Averages for PISA science scale;483;499
+2012;Mexico;Averages for PISA science scale;412;418
+2012;Netherlands;Averages for PISA science scale;520;524
+2012;New Zealand;Averages for PISA science scale;513;518
+2012;Norway;Averages for PISA science scale;496;493
+2012;Poland;Averages for PISA science scale;527;524
+2012;Portugal;Averages for PISA science scale;490;488
+2012;Slovak Republic;Averages for PISA science scale;467;475
+2012;Slovenia;Averages for PISA science scale;519;510
+2012;Spain;Averages for PISA science scale;493;500
+2012;Sweden;Averages for PISA science scale;489;481
+2012;Switzerland;Averages for PISA science scale;512;518
+2012;Turkey;Averages for PISA science scale;469;458
+2012;United Kingdom;Averages for PISA science scale;508;521
+2012;United States;Averages for PISA science scale;498;497
+2012;Albania;Averages for PISA science scale;401;394
+2012;Albania (2015);Averages for PISA science scale;NA;NA
+2012;Algeria;Averages for PISA science scale;NA;NA
+2012;Argentina (2015);Averages for PISA science scale;NA;NA
+2012;Brazil;Averages for PISA science scale;401;402
+2012;B-S-J-G (China);Averages for PISA science scale;NA;NA
+2012;Bulgaria;Averages for PISA science scale;457;437
+2012;CABA (Argentina);Averages for PISA science scale;422;428
+2012;Colombia;Averages for PISA science scale;390;408
+2012;Costa Rica;Averages for PISA science scale;424;436
+2012;Croatia;Averages for PISA science scale;493;490
+2012;Cyprus;Averages for PISA science scale;NA;NA
+2012;Dominican Republic;Averages for PISA science scale;NA;NA
+2012;FYROM;Averages for PISA science scale;NA;NA
+2012;Georgia;Averages for PISA science scale;NA;NA
+2012;Hong Kong (China);Averages for PISA science scale;551;558
+2012;Indonesia;Averages for PISA science scale;383;380
+2012;Jordan;Averages for PISA science scale;430;388
+2012;Kazakhstan;Averages for PISA science scale;429;420
+2012;Kazakhstan (2015);Averages for PISA science scale;NA;NA
+2012;Kosovo;Averages for PISA science scale;NA;NA
+2012;Lebanon;Averages for PISA science scale;NA;NA
+2012;Lithuania;Averages for PISA science scale;503;488
+2012;Macao (China);Averages for PISA science scale;521;520
+2012;Malaysia;Averages for PISA science scale;425;414
+2012;Malaysia (2015);Averages for PISA science scale;NA;NA
+2012;Malta;Averages for PISA science scale;NA;NA
+2012;Moldova;Averages for PISA science scale;NA;NA
+2012;Montenegro;Averages for PISA science scale;419;402
+2012;Peru;Averages for PISA science scale;370;376
+2012;Qatar;Averages for PISA science scale;402;367
+2012;Romania;Averages for PISA science scale;441;436
+2012;Russia;Averages for PISA science scale;489;484
+2012;Singapore;Averages for PISA science scale;552;551
+2012;Chinese Taipei;Averages for PISA science scale;523;524
+2012;Thailand;Averages for PISA science scale;452;433
+2012;Trinidad and Tobago;Averages for PISA science scale;NA;NA
+2012;Tunisia;Averages for PISA science scale;398;399
+2012;United Arab Emirates;Averages for PISA science scale;462;434
+2012;Uruguay;Averages for PISA science scale;416;415
+2012;Viet Nam;Averages for PISA science scale;528;529
+2009;International Average (OECD);Averages for PISA science scale;501;501
+2009;Australia;Averages for PISA science scale;528;527
+2009;Austria;Averages for PISA science scale;490;498
+2009;Belgium;Averages for PISA science scale;503;510
+2009;Canada;Averages for PISA science scale;526;531
+2009;Chile;Averages for PISA science scale;443;452
+2009;Czech Republic;Averages for PISA science scale;503;498
+2009;Denmark;Averages for PISA science scale;494;505
+2009;Estonia;Averages for PISA science scale;528;527
+2009;Finland;Averages for PISA science scale;562;546
+2009;France;Averages for PISA science scale;497;500
+2009;Germany;Averages for PISA science scale;518;523
+2009;Greece;Averages for PISA science scale;475;465
+2009;Hungary;Averages for PISA science scale;503;503
+2009;Iceland;Averages for PISA science scale;495;496
+2009;Ireland;Averages for PISA science scale;509;507
+2009;Israel;Averages for PISA science scale;456;453
+2009;Italy;Averages for PISA science scale;490;488
+2009;Japan;Averages for PISA science scale;545;534
+2009;Korea;Averages for PISA science scale;539;537
+2009;Latvia;Averages for PISA science scale;497;490
+2009;Luxembourg;Averages for PISA science scale;480;487
+2009;Mexico;Averages for PISA science scale;413;419
+2009;Netherlands;Averages for PISA science scale;520;524
+2009;New Zealand;Averages for PISA science scale;535;529
+2009;Norway;Averages for PISA science scale;502;498
+2009;Poland;Averages for PISA science scale;511;505
+2009;Portugal;Averages for PISA science scale;495;491
+2009;Slovak Republic;Averages for PISA science scale;491;490
+2009;Slovenia;Averages for PISA science scale;519;505
+2009;Spain;Averages for PISA science scale;485;492
+2009;Sweden;Averages for PISA science scale;497;493
+2009;Switzerland;Averages for PISA science scale;512;520
+2009;Turkey;Averages for PISA science scale;460;448
+2009;United Kingdom;Averages for PISA science scale;509;519
+2009;United States;Averages for PISA science scale;495;509
+2009;Albania;Averages for PISA science scale;406;377
+2009;Albania (2015);Averages for PISA science scale;NA;NA
+2009;Algeria;Averages for PISA science scale;NA;NA
+2009;Argentina (2015);Averages for PISA science scale;NA;NA
+2009;Brazil;Averages for PISA science scale;404;407
+2009;B-S-J-G (China);Averages for PISA science scale;NA;NA
+2009;Bulgaria;Averages for PISA science scale;450;430
+2009;CABA (Argentina);Averages for PISA science scale;NA;NA
+2009;Colombia;Averages for PISA science scale;392;413
+2009;Costa Rica;Averages for PISA science scale;NA;NA
+2009;Croatia;Averages for PISA science scale;491;482
+2009;Cyprus;Averages for PISA science scale;NA;NA
+2009;Dominican Republic;Averages for PISA science scale;NA;NA
+2009;FYROM;Averages for PISA science scale;NA;NA
+2009;Georgia;Averages for PISA science scale;NA;NA
+2009;Hong Kong (China);Averages for PISA science scale;548;550
+2009;Indonesia;Averages for PISA science scale;387;378
+2009;Jordan;Averages for PISA science scale;433;398
+2009;Kazakhstan;Averages for PISA science scale;405;396
+2009;Kazakhstan (2015);Averages for PISA science scale;NA;NA
+2009;Kosovo;Averages for PISA science scale;NA;NA
+2009;Lebanon;Averages for PISA science scale;NA;NA
+2009;Lithuania;Averages for PISA science scale;500;483
+2009;Macao (China);Averages for PISA science scale;512;510
+2009;Malaysia;Averages for PISA science scale;NA;NA
+2009;Malaysia (2015);Averages for PISA science scale;NA;NA
+2009;Malta;Averages for PISA science scale;NA;NA
+2009;Moldova;Averages for PISA science scale;NA;NA
+2009;Montenegro;Averages for PISA science scale;408;395
+2009;Peru;Averages for PISA science scale;367;372
+2009;Qatar;Averages for PISA science scale;393;366
+2009;Romania;Averages for PISA science scale;433;423
+2009;Russia;Averages for PISA science scale;480;477
+2009;Singapore;Averages for PISA science scale;542;541
+2009;Chinese Taipei;Averages for PISA science scale;521;520
+2009;Thailand;Averages for PISA science scale;431;418
+2009;Trinidad and Tobago;Averages for PISA science scale;419;401
+2009;Tunisia;Averages for PISA science scale;400;401
+2009;United Arab Emirates;Averages for PISA science scale;NA;NA
+2009;Uruguay;Averages for PISA science scale;428;427
+2009;Viet Nam;Averages for PISA science scale;NA;NA
+2006;International Average (OECD);Averages for PISA science scale;497;499
+2006;Australia;Averages for PISA science scale;527;527
+2006;Austria;Averages for PISA science scale;507;515
+2006;Belgium;Averages for PISA science scale;510;511
+2006;Canada;Averages for PISA science scale;532;536
+2006;Chile;Averages for PISA science scale;426;448
+2006;Czech Republic;Averages for PISA science scale;510;515
+2006;Denmark;Averages for PISA science scale;491;500
+2006;Estonia;Averages for PISA science scale;533;530
+2006;Finland;Averages for PISA science scale;565;562
+2006;France;Averages for PISA science scale;494;497
+2006;Germany;Averages for PISA science scale;512;519
+2006;Greece;Averages for PISA science scale;479;468
+2006;Hungary;Averages for PISA science scale;501;507
+2006;Iceland;Averages for PISA science scale;494;488
+2006;Ireland;Averages for PISA science scale;509;508
+2006;Israel;Averages for PISA science scale;452;456
+2006;Italy;Averages for PISA science scale;474;477
+2006;Japan;Averages for PISA science scale;530;533
+2006;Korea;Averages for PISA science scale;523;521
+2006;Latvia;Averages for PISA science scale;493;486
+2006;Luxembourg;Averages for PISA science scale;482;491
+2006;Mexico;Averages for PISA science scale;406;413
+2006;Netherlands;Averages for PISA science scale;521;528
+2006;New Zealand;Averages for PISA science scale;532;528
+2006;Norway;Averages for PISA science scale;489;484
+2006;Poland;Averages for PISA science scale;496;500
+2006;Portugal;Averages for PISA science scale;472;477
+2006;Slovak Republic;Averages for PISA science scale;485;491
+2006;Slovenia;Averages for PISA science scale;523;515
+2006;Spain;Averages for PISA science scale;486;491
+2006;Sweden;Averages for PISA science scale;503;504
+2006;Switzerland;Averages for PISA science scale;509;514
+2006;Turkey;Averages for PISA science scale;430;418
+2006;United Kingdom;Averages for PISA science scale;510;520
+2006;United States;Averages for PISA science scale;489;489
+2006;Albania;Averages for PISA science scale;NA;NA
+2006;Albania (2015);Averages for PISA science scale;NA;NA
+2006;Algeria;Averages for PISA science scale;NA;NA
+2006;Argentina (2015);Averages for PISA science scale;NA;NA
+2006;Brazil;Averages for PISA science scale;386;395
+2006;B-S-J-G (China);Averages for PISA science scale;NA;NA
+2006;Bulgaria;Averages for PISA science scale;443;426
+2006;CABA (Argentina);Averages for PISA science scale;NA;NA
+2006;Colombia;Averages for PISA science scale;384;393
+2006;Costa Rica;Averages for PISA science scale;NA;NA
+2006;Croatia;Averages for PISA science scale;494;492
+2006;Cyprus;Averages for PISA science scale;NA;NA
+2006;Dominican Republic;Averages for PISA science scale;NA;NA
+2006;FYROM;Averages for PISA science scale;NA;NA
+2006;Georgia;Averages for PISA science scale;NA;NA
+2006;Hong Kong (China);Averages for PISA science scale;539;546
+2006;Indonesia;Averages for PISA science scale;387;399
+2006;Jordan;Averages for PISA science scale;436;408
+2006;Kazakhstan;Averages for PISA science scale;NA;NA
+2006;Kazakhstan (2015);Averages for PISA science scale;NA;NA
+2006;Kosovo;Averages for PISA science scale;NA;NA
+2006;Lebanon;Averages for PISA science scale;NA;NA
+2006;Lithuania;Averages for PISA science scale;493;483
+2006;Macao (China);Averages for PISA science scale;509;513
+2006;Malaysia;Averages for PISA science scale;NA;NA
+2006;Malaysia (2015);Averages for PISA science scale;NA;NA
+2006;Malta;Averages for PISA science scale;NA;NA
+2006;Moldova;Averages for PISA science scale;NA;NA
+2006;Montenegro;Averages for PISA science scale;413;411
+2006;Peru;Averages for PISA science scale;NA;NA
+2006;Qatar;Averages for PISA science scale;365;334
+2006;Romania;Averages for PISA science scale;419;417
+2006;Russia;Averages for PISA science scale;478;481
+2006;Singapore;Averages for PISA science scale;NA;NA
+2006;Chinese Taipei;Averages for PISA science scale;529;536
+2006;Thailand;Averages for PISA science scale;428;411
+2006;Trinidad and Tobago;Averages for PISA science scale;NA;NA
+2006;Tunisia;Averages for PISA science scale;388;383
+2006;United Arab Emirates;Averages for PISA science scale;NA;NA
+2006;Uruguay;Averages for PISA science scale;430;427
+2006;Viet Nam;Averages for PISA science scale;NA;NA

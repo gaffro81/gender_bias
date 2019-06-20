@@ -1,0 +1,47 @@
+
+daten_de_destatis_verteilung nach Berufsgruppen und Geschlecht.csv
+https://www-genesis.destatis.de/genesis/online/data;sid=53BB33CF248EC4423ADC1A16BFACD6F9.GO_1_2?operation=abruftabelleBearbeiten&levelindex=2&levelid=1558426998270&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&selectionname=13111-0004&auswahltext=&werteabruf=Werteabruf
+
+earn_gr_gpgr2.tsv
+https://ec.europa.eu/eurostat/web/products-datasets/-/earn_gr_gpgr2
+META
+https://ec.europa.eu/eurostat/cache/metadata/en/earn_grgpg2_esms.htm
+nace 2 Metadaten encoding:
+https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=NACE_REV2&StrLanguageCode=EN
+
+
+lfsa_eegan2.tsv
+https://ec.europa.eu/eurostat/web/products-datasets/-/lfsa_eegan2
+META
+https://ec.europa.eu/eurostat/cache/metadata/de/lfsa_esms.htm
+
+
+USA:
+https://www.bls.gov/cps/tables.htm#charemp
+
+https://beta.bls.gov/dataViewer/view/timeseries/LNU02072293
+US_Percentage of employed women_computing_occupations2000_2018.csv
+
+
+
+https://www.statista.com/statistics/311972/us-women-computer-workers/
+Percentage of employed women in computing-related occupations in the United States from 2000 to 2018.csv
+https://www.statista.com/statistics/784647/tech-industry-workforce-diversity-gender/
+
+
+https://www.statista.com/statistics/311836/facebook-employee-gender-department-global/
+https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx
+
+honeypot.io:
+https://www.honeypot.io/women-in-tech-2018/eur/#table-content
+
+-----------------------------------------------------------------------------------------
+hrst_st_ncat.tsv
+https://ec.europa.eu/eurostat/web/products-datasets/-/hrst_st_ncat
+META
+https://ec.europa.eu/eurostat/cache/metadata/en/hrst_esms.htm
+
+hrst_st_nsecsex2.tsv
+https://ec.europa.eu/eurostat/web/products-datasets/-/hrst_st_nsecsex2
+META
+https://ec.europa.eu/eurostat/cache/metadata/en/hrst_esms.htm

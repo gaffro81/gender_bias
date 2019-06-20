@@ -1,0 +1,653 @@
+GENESIS-Tabelle: 21111-0014
+Absolventen/Abgänger: Bundesländer, Schuljahr, Geschlecht,;;;;;
+Schulabschlüsse;;;;;
+Statistik der allgemeinbildenden Schulen;;;;;
+Absolventen/Abgänger (Anzahl);;;;;
+;;;Geschlecht;Geschlecht;Geschlecht
+;;;männlich;weiblich;Insgesamt
+2009/10;Baden-Württemberg;Ohne Hauptschulabschluss;3798;2447;6245
+2009/10;Baden-Württemberg;Hauptschulabschluss;18043;13956;31999
+2009/10;Baden-Württemberg;Mittlerer Schulabschluss;25136;25014;50150
+2009/10;Baden-Württemberg;Fachhochschulreife;164;149;313
+2009/10;Baden-Württemberg;Allgemeine Hochschulreife;15258;18751;34009
+2009/10;Bayern;Ohne Hauptschulabschluss;4700;2879;7579
+2009/10;Bayern;Hauptschulabschluss;20583;14924;35507
+2009/10;Bayern;Mittlerer Schulabschluss;28749;31148;59897
+2009/10;Bayern;Fachhochschulreife;15;21;36
+2009/10;Bayern;Allgemeine Hochschulreife;16243;19476;35719
+2009/10;Berlin;Ohne Hauptschulabschluss;1611;1119;2730
+2009/10;Berlin;Hauptschulabschluss;3837;3052;6889
+2009/10;Berlin;Mittlerer Schulabschluss;4807;4283;9090
+2009/10;Berlin;Fachhochschulreife;-;-;-
+2009/10;Berlin;Allgemeine Hochschulreife;5586;6786;12372
+2009/10;Brandenburg;Ohne Hauptschulabschluss;1039;590;1629
+2009/10;Brandenburg;Hauptschulabschluss;1734;1167;2901
+2009/10;Brandenburg;Mittlerer Schulabschluss;3070;3066;6136
+2009/10;Brandenburg;Fachhochschulreife;28;16;44
+2009/10;Brandenburg;Allgemeine Hochschulreife;3972;5352;9324
+2009/10;Bremen;Ohne Hauptschulabschluss;229;141;370
+2009/10;Bremen;Hauptschulabschluss;943;790;1733
+2009/10;Bremen;Mittlerer Schulabschluss;1402;1386;2788
+2009/10;Bremen;Fachhochschulreife;51;63;114
+2009/10;Bremen;Allgemeine Hochschulreife;1219;1462;2681
+2009/10;Hamburg;Ohne Hauptschulabschluss;708;516;1224
+2009/10;Hamburg;Hauptschulabschluss;1532;1166;2698
+2009/10;Hamburg;Mittlerer Schulabschluss;2077;1916;3993
+2009/10;Hamburg;Fachhochschulreife;255;287;542
+2009/10;Hamburg;Allgemeine Hochschulreife;5501;6675;12176
+2009/10;Hessen;Ohne Hauptschulabschluss;2356;1507;3863
+2009/10;Hessen;Hauptschulabschluss;8384;6087;14471
+2009/10;Hessen;Mittlerer Schulabschluss;14425;13971;28396
+2009/10;Hessen;Fachhochschulreife;583;680;1263
+2009/10;Hessen;Allgemeine Hochschulreife;8833;11232;20065
+2009/10;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;878;556;1434
+2009/10;Mecklenburg-Vorpommern;Hauptschulabschluss;898;599;1497
+2009/10;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;1981;1942;3923
+2009/10;Mecklenburg-Vorpommern;Fachhochschulreife;154;174;328
+2009/10;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1703;1964;3667
+2009/10;Niedersachsen;Ohne Hauptschulabschluss;3287;1931;5218
+2009/10;Niedersachsen;Hauptschulabschluss;8720;5742;14462
+2009/10;Niedersachsen;Mittlerer Schulabschluss;21394;19953;41347
+2009/10;Niedersachsen;Fachhochschulreife;619;727;1346
+2009/10;Niedersachsen;Allgemeine Hochschulreife;10945;14028;24973
+2009/10;Nordrhein-Westfalen;Ohne Hauptschulabschluss;7141;4841;11982
+2009/10;Nordrhein-Westfalen;Hauptschulabschluss;22328;16357;38685
+2009/10;Nordrhein-Westfalen;Mittlerer Schulabschluss;44548;43194;87742
+2009/10;Nordrhein-Westfalen;Fachhochschulreife;3697;3928;7625
+2009/10;Nordrhein-Westfalen;Allgemeine Hochschulreife;30743;39359;70102
+2009/10;Rheinland-Pfalz;Ohne Hauptschulabschluss;1629;936;2565
+2009/10;Rheinland-Pfalz;Hauptschulabschluss;5733;4001;9734
+2009/10;Rheinland-Pfalz;Mittlerer Schulabschluss;9061;9191;18252
+2009/10;Rheinland-Pfalz;Fachhochschulreife;303;410;713
+2009/10;Rheinland-Pfalz;Allgemeine Hochschulreife;5878;7810;13688
+2009/10;Saarland;Ohne Hauptschulabschluss;343;223;566
+2009/10;Saarland;Hauptschulabschluss;1618;1246;2864
+2009/10;Saarland;Mittlerer Schulabschluss;1703;1712;3415
+2009/10;Saarland;Fachhochschulreife;49;55;104
+2009/10;Saarland;Allgemeine Hochschulreife;1363;1715;3078
+2009/10;Sachsen;Ohne Hauptschulabschluss;1412;929;2341
+2009/10;Sachsen;Hauptschulabschluss;1533;1006;2539
+2009/10;Sachsen;Mittlerer Schulabschluss;6139;5913;12052
+2009/10;Sachsen;Fachhochschulreife;-;-;-
+2009/10;Sachsen;Allgemeine Hochschulreife;3287;3937;7224
+2009/10;Sachsen-Anhalt;Ohne Hauptschulabschluss;1101;743;1844
+2009/10;Sachsen-Anhalt;Hauptschulabschluss;1709;1121;2830
+2009/10;Sachsen-Anhalt;Mittlerer Schulabschluss;3223;3173;6396
+2009/10;Sachsen-Anhalt;Fachhochschulreife;213;240;453
+2009/10;Sachsen-Anhalt;Allgemeine Hochschulreife;1836;2397;4233
+2009/10;Schleswig-Holstein;Ohne Hauptschulabschluss;1348;854;2202
+2009/10;Schleswig-Holstein;Hauptschulabschluss;5025;3719;8744
+2009/10;Schleswig-Holstein;Mittlerer Schulabschluss;5598;5630;11228
+2009/10;Schleswig-Holstein;Fachhochschulreife;275;299;574
+2009/10;Schleswig-Holstein;Allgemeine Hochschulreife;4274;5124;9398
+2009/10;Thüringen;Ohne Hauptschulabschluss;771;495;1266
+2009/10;Thüringen;Hauptschulabschluss;1284;916;2200
+2009/10;Thüringen;Mittlerer Schulabschluss;3112;2939;6051
+2009/10;Thüringen;Fachhochschulreife;-;-;-
+2009/10;Thüringen;Allgemeine Hochschulreife;2477;3008;5485
+2010/11;Baden-Württemberg;Ohne Hauptschulabschluss;3532;2390;5922
+2010/11;Baden-Württemberg;Hauptschulabschluss;17413;13399;30812
+2010/11;Baden-Württemberg;Mittlerer Schulabschluss;24660;24567;49227
+2010/11;Baden-Württemberg;Fachhochschulreife;136;174;310
+2010/11;Baden-Württemberg;Allgemeine Hochschulreife;15835;19539;35374
+2010/11;Bayern;Ohne Hauptschulabschluss;4314;2669;6983
+2010/11;Bayern;Hauptschulabschluss;20068;14339;34407
+2010/11;Bayern;Mittlerer Schulabschluss;29078;30841;59919
+2010/11;Bayern;Fachhochschulreife;6;6;12
+2010/11;Bayern;Allgemeine Hochschulreife;31577;37303;68880
+2010/11;Berlin;Ohne Hauptschulabschluss;1462;1025;2487
+2010/11;Berlin;Hauptschulabschluss;3475;2837;6312
+2010/11;Berlin;Mittlerer Schulabschluss;4711;4229;8940
+2010/11;Berlin;Fachhochschulreife;-;-;-
+2010/11;Berlin;Allgemeine Hochschulreife;5423;6440;11863
+2010/11;Brandenburg;Ohne Hauptschulabschluss;862;549;1411
+2010/11;Brandenburg;Hauptschulabschluss;1767;1074;2841
+2010/11;Brandenburg;Mittlerer Schulabschluss;2757;2813;5570
+2010/11;Brandenburg;Fachhochschulreife;4;-;4
+2010/11;Brandenburg;Allgemeine Hochschulreife;3014;3675;6689
+2010/11;Bremen;Ohne Hauptschulabschluss;294;188;482
+2010/11;Bremen;Hauptschulabschluss;933;761;1694
+2010/11;Bremen;Mittlerer Schulabschluss;1370;1393;2763
+2010/11;Bremen;Fachhochschulreife;61;79;140
+2010/11;Bremen;Allgemeine Hochschulreife;1308;1552;2860
+2010/11;Hamburg;Ohne Hauptschulabschluss;591;429;1020
+2010/11;Hamburg;Hauptschulabschluss;1371;988;2359
+2010/11;Hamburg;Mittlerer Schulabschluss;1767;1563;3330
+2010/11;Hamburg;Fachhochschulreife;223;237;460
+2010/11;Hamburg;Allgemeine Hochschulreife;3309;4036;7345
+2010/11;Hessen;Ohne Hauptschulabschluss;1980;1390;3370
+2010/11;Hessen;Hauptschulabschluss;7554;5340;12894
+2010/11;Hessen;Mittlerer Schulabschluss;14075;13288;27363
+2010/11;Hessen;Fachhochschulreife;904;1055;1959
+2010/11;Hessen;Allgemeine Hochschulreife;8824;11560;20384
+2010/11;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;820;525;1345
+2010/11;Mecklenburg-Vorpommern;Hauptschulabschluss;676;463;1139
+2010/11;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;1942;1744;3686
+2010/11;Mecklenburg-Vorpommern;Fachhochschulreife;136;158;294
+2010/11;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1425;1668;3093
+2010/11;Niedersachsen;Ohne Hauptschulabschluss;3090;1995;5085
+2010/11;Niedersachsen;Hauptschulabschluss;7534;5161;12695
+2010/11;Niedersachsen;Mittlerer Schulabschluss;21661;19677;41338
+2010/11;Niedersachsen;Fachhochschulreife;741;806;1547
+2010/11;Niedersachsen;Allgemeine Hochschulreife;18351;23754;42105
+2010/11;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6619;4583;11202
+2010/11;Nordrhein-Westfalen;Hauptschulabschluss;20903;15363;36266
+2010/11;Nordrhein-Westfalen;Mittlerer Schulabschluss;41854;40123;81977
+2010/11;Nordrhein-Westfalen;Fachhochschulreife;3415;3714;7129
+2010/11;Nordrhein-Westfalen;Allgemeine Hochschulreife;32099;40314;72413
+2010/11;Rheinland-Pfalz;Ohne Hauptschulabschluss;1501;968;2469
+2010/11;Rheinland-Pfalz;Hauptschulabschluss;5433;3900;9333
+2010/11;Rheinland-Pfalz;Mittlerer Schulabschluss;9093;8957;18050
+2010/11;Rheinland-Pfalz;Fachhochschulreife;365;420;785
+2010/11;Rheinland-Pfalz;Allgemeine Hochschulreife;5936;7832;13768
+2010/11;Saarland;Ohne Hauptschulabschluss;299;188;487
+2010/11;Saarland;Hauptschulabschluss;1548;1171;2719
+2010/11;Saarland;Mittlerer Schulabschluss;1673;1709;3382
+2010/11;Saarland;Fachhochschulreife;59;51;110
+2010/11;Saarland;Allgemeine Hochschulreife;1376;1710;3086
+2010/11;Sachsen;Ohne Hauptschulabschluss;1396;863;2259
+2010/11;Sachsen;Hauptschulabschluss;1734;1089;2823
+2010/11;Sachsen;Mittlerer Schulabschluss;5759;5433;11192
+2010/11;Sachsen;Fachhochschulreife;-;-;-
+2010/11;Sachsen;Allgemeine Hochschulreife;3020;3654;6674
+2010/11;Sachsen-Anhalt;Ohne Hauptschulabschluss;1063;675;1738
+2010/11;Sachsen-Anhalt;Hauptschulabschluss;1457;970;2427
+2010/11;Sachsen-Anhalt;Mittlerer Schulabschluss;3253;2919;6172
+2010/11;Sachsen-Anhalt;Fachhochschulreife;180;186;366
+2010/11;Sachsen-Anhalt;Allgemeine Hochschulreife;1722;2202;3924
+2010/11;Schleswig-Holstein;Ohne Hauptschulabschluss;1349;794;2143
+2010/11;Schleswig-Holstein;Hauptschulabschluss;4513;3374;7887
+2010/11;Schleswig-Holstein;Mittlerer Schulabschluss;5362;5612;10974
+2010/11;Schleswig-Holstein;Fachhochschulreife;295;358;653
+2010/11;Schleswig-Holstein;Allgemeine Hochschulreife;3805;4577;8382
+2010/11;Thüringen;Ohne Hauptschulabschluss;702;455;1157
+2010/11;Thüringen;Hauptschulabschluss;1216;836;2052
+2010/11;Thüringen;Mittlerer Schulabschluss;3033;2842;5875
+2010/11;Thüringen;Fachhochschulreife;-;-;-
+2010/11;Thüringen;Allgemeine Hochschulreife;1942;2384;4326
+2011/12;Baden-Württemberg;Ohne Hauptschulabschluss;3575;2376;5951
+2011/12;Baden-Württemberg;Hauptschulabschluss;13295;10009;23304
+2011/12;Baden-Württemberg;Mittlerer Schulabschluss;25364;25291;50655
+2011/12;Baden-Württemberg;Fachhochschulreife;180;200;380
+2011/12;Baden-Württemberg;Allgemeine Hochschulreife;27498;32040;59538
+2011/12;Bayern;Ohne Hauptschulabschluss;3979;2480;6459
+2011/12;Bayern;Hauptschulabschluss;20181;14228;34409
+2011/12;Bayern;Mittlerer Schulabschluss;29302;30971;60273
+2011/12;Bayern;Fachhochschulreife;9;4;13
+2011/12;Bayern;Allgemeine Hochschulreife;17056;19699;36755
+2011/12;Berlin;Ohne Hauptschulabschluss;1300;1039;2339
+2011/12;Berlin;Hauptschulabschluss;3504;2691;6195
+2011/12;Berlin;Mittlerer Schulabschluss;5040;4520;9560
+2011/12;Berlin;Fachhochschulreife;-;-;-
+2011/12;Berlin;Allgemeine Hochschulreife;7744;9411;17155
+2011/12;Brandenburg;Ohne Hauptschulabschluss;925;514;1439
+2011/12;Brandenburg;Hauptschulabschluss;1543;970;2513
+2011/12;Brandenburg;Mittlerer Schulabschluss;3607;3204;6811
+2011/12;Brandenburg;Fachhochschulreife;28;15;43
+2011/12;Brandenburg;Allgemeine Hochschulreife;4285;5227;9512
+2011/12;Bremen;Ohne Hauptschulabschluss;245;167;412
+2011/12;Bremen;Hauptschulabschluss;911;713;1624
+2011/12;Bremen;Mittlerer Schulabschluss;1409;1349;2758
+2011/12;Bremen;Fachhochschulreife;40;53;93
+2011/12;Bremen;Allgemeine Hochschulreife;1775;2114;3889
+2011/12;Hamburg;Ohne Hauptschulabschluss;580;413;993
+2011/12;Hamburg;Hauptschulabschluss;1413;1133;2546
+2011/12;Hamburg;Mittlerer Schulabschluss;1756;1561;3317
+2011/12;Hamburg;Fachhochschulreife;188;207;395
+2011/12;Hamburg;Allgemeine Hochschulreife;3517;4266;7783
+2011/12;Hessen;Ohne Hauptschulabschluss;2027;1324;3351
+2011/12;Hessen;Hauptschulabschluss;7153;5208;12361
+2011/12;Hessen;Mittlerer Schulabschluss;13863;13308;27171
+2011/12;Hessen;Fachhochschulreife;796;1029;1825
+2011/12;Hessen;Allgemeine Hochschulreife;9657;12085;21742
+2011/12;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;783;483;1266
+2011/12;Mecklenburg-Vorpommern;Hauptschulabschluss;764;557;1321
+2011/12;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2137;1927;4064
+2011/12;Mecklenburg-Vorpommern;Fachhochschulreife;181;200;381
+2011/12;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1511;1822;3333
+2011/12;Niedersachsen;Ohne Hauptschulabschluss;2899;1874;4773
+2011/12;Niedersachsen;Hauptschulabschluss;7708;5162;12870
+2011/12;Niedersachsen;Mittlerer Schulabschluss;21616;19723;41339
+2011/12;Niedersachsen;Fachhochschulreife;855;924;1779
+2011/12;Niedersachsen;Allgemeine Hochschulreife;12074;14602;26676
+2011/12;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6294;4397;10691
+2011/12;Nordrhein-Westfalen;Hauptschulabschluss;20024;14743;34767
+2011/12;Nordrhein-Westfalen;Mittlerer Schulabschluss;41352;39762;81114
+2011/12;Nordrhein-Westfalen;Fachhochschulreife;3508;3674;7182
+2011/12;Nordrhein-Westfalen;Allgemeine Hochschulreife;34718;42961;77679
+2011/12;Rheinland-Pfalz;Ohne Hauptschulabschluss;1448;905;2353
+2011/12;Rheinland-Pfalz;Hauptschulabschluss;5471;3494;8965
+2011/12;Rheinland-Pfalz;Mittlerer Schulabschluss;9056;9203;18259
+2011/12;Rheinland-Pfalz;Fachhochschulreife;424;487;911
+2011/12;Rheinland-Pfalz;Allgemeine Hochschulreife;6113;7834;13947
+2011/12;Saarland;Ohne Hauptschulabschluss;327;200;527
+2011/12;Saarland;Hauptschulabschluss;1618;1135;2753
+2011/12;Saarland;Mittlerer Schulabschluss;1673;1718;3391
+2011/12;Saarland;Fachhochschulreife;72;94;166
+2011/12;Saarland;Allgemeine Hochschulreife;1460;1670;3130
+2011/12;Sachsen;Ohne Hauptschulabschluss;1362;926;2288
+2011/12;Sachsen;Hauptschulabschluss;1630;1082;2712
+2011/12;Sachsen;Mittlerer Schulabschluss;5959;5936;11895
+2011/12;Sachsen;Fachhochschulreife;-;-;-
+2011/12;Sachsen;Allgemeine Hochschulreife;3122;3697;6819
+2011/12;Sachsen-Anhalt;Ohne Hauptschulabschluss;1016;652;1668
+2011/12;Sachsen-Anhalt;Hauptschulabschluss;1337;856;2193
+2011/12;Sachsen-Anhalt;Mittlerer Schulabschluss;3613;3383;6996
+2011/12;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2011/12;Sachsen-Anhalt;Allgemeine Hochschulreife;1764;2317;4081
+2011/12;Schleswig-Holstein;Ohne Hauptschulabschluss;1296;818;2114
+2011/12;Schleswig-Holstein;Hauptschulabschluss;4054;3021;7075
+2011/12;Schleswig-Holstein;Mittlerer Schulabschluss;5220;5485;10705
+2011/12;Schleswig-Holstein;Fachhochschulreife;368;409;777
+2011/12;Schleswig-Holstein;Allgemeine Hochschulreife;3910;4721;8631
+2011/12;Thüringen;Ohne Hauptschulabschluss;675;349;1024
+2011/12;Thüringen;Hauptschulabschluss;1108;782;1890
+2011/12;Thüringen;Mittlerer Schulabschluss;3133;3086;6219
+2011/12;Thüringen;Fachhochschulreife;-;-;-
+2011/12;Thüringen;Allgemeine Hochschulreife;2065;2437;4502
+2012/13;Baden-Württemberg;Ohne Hauptschulabschluss;3272;2245;5517
+2012/13;Baden-Württemberg;Hauptschulabschluss;13762;10190;23952
+2012/13;Baden-Württemberg;Mittlerer Schulabschluss;29180;28082;57262
+2012/13;Baden-Württemberg;Fachhochschulreife;160;146;306
+2012/13;Baden-Württemberg;Allgemeine Hochschulreife;15795;18013;33808
+2012/13;Bayern;Ohne Hauptschulabschluss;3681;2311;5992
+2012/13;Bayern;Hauptschulabschluss;18258;12879;31137
+2012/13;Bayern;Mittlerer Schulabschluss;30329;32002;62331
+2012/13;Bayern;Fachhochschulreife;3;3;6
+2012/13;Bayern;Allgemeine Hochschulreife;17432;20252;37684
+2012/13;Berlin;Ohne Hauptschulabschluss;1209;906;2115
+2012/13;Berlin;Hauptschulabschluss;3318;2613;5931
+2012/13;Berlin;Mittlerer Schulabschluss;5212;4912;10124
+2012/13;Berlin;Fachhochschulreife;-;-;-
+2012/13;Berlin;Allgemeine Hochschulreife;5708;6522;12230
+2012/13;Brandenburg;Ohne Hauptschulabschluss;886;546;1432
+2012/13;Brandenburg;Hauptschulabschluss;1637;1073;2710
+2012/13;Brandenburg;Mittlerer Schulabschluss;3648;3512;7160
+2012/13;Brandenburg;Fachhochschulreife;-;-;-
+2012/13;Brandenburg;Allgemeine Hochschulreife;3122;3595;6717
+2012/13;Bremen;Ohne Hauptschulabschluss;265;184;449
+2012/13;Bremen;Hauptschulabschluss;923;652;1575
+2012/13;Bremen;Mittlerer Schulabschluss;1396;1271;2667
+2012/13;Bremen;Fachhochschulreife;57;93;150
+2012/13;Bremen;Allgemeine Hochschulreife;1351;1422;2773
+2012/13;Hamburg;Ohne Hauptschulabschluss;395;302;697
+2012/13;Hamburg;Hauptschulabschluss;883;628;1511
+2012/13;Hamburg;Mittlerer Schulabschluss;1965;1726;3691
+2012/13;Hamburg;Fachhochschulreife;34;27;61
+2012/13;Hamburg;Allgemeine Hochschulreife;3845;4350;8195
+2012/13;Hessen;Ohne Hauptschulabschluss;1792;1237;3029
+2012/13;Hessen;Hauptschulabschluss;6921;4820;11741
+2012/13;Hessen;Mittlerer Schulabschluss;15582;15193;30775
+2012/13;Hessen;Fachhochschulreife;252;193;445
+2012/13;Hessen;Allgemeine Hochschulreife;12583;15821;28404
+2012/13;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;726;429;1155
+2012/13;Mecklenburg-Vorpommern;Hauptschulabschluss;802;543;1345
+2012/13;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2439;2285;4724
+2012/13;Mecklenburg-Vorpommern;Fachhochschulreife;-;-;-
+2012/13;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1531;1798;3329
+2012/13;Niedersachsen;Ohne Hauptschulabschluss;2656;1716;4372
+2012/13;Niedersachsen;Hauptschulabschluss;7147;4985;12132
+2012/13;Niedersachsen;Mittlerer Schulabschluss;22700;21468;44168
+2012/13;Niedersachsen;Fachhochschulreife;-;-;-
+2012/13;Niedersachsen;Allgemeine Hochschulreife;11666;14131;25797
+2012/13;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6633;4557;11190
+2012/13;Nordrhein-Westfalen;Hauptschulabschluss;19762;14686;34448
+2012/13;Nordrhein-Westfalen;Mittlerer Schulabschluss;46781;44826;91607
+2012/13;Nordrhein-Westfalen;Fachhochschulreife;54;46;100
+2012/13;Nordrhein-Westfalen;Allgemeine Hochschulreife;52530;65365;117895
+2012/13;Rheinland-Pfalz;Ohne Hauptschulabschluss;1494;852;2346
+2012/13;Rheinland-Pfalz;Hauptschulabschluss;5299;3455;8754
+2012/13;Rheinland-Pfalz;Mittlerer Schulabschluss;9738;9629;19367
+2012/13;Rheinland-Pfalz;Fachhochschulreife;-;-;-
+2012/13;Rheinland-Pfalz;Allgemeine Hochschulreife;6386;8006;14392
+2012/13;Saarland;Ohne Hauptschulabschluss;295;214;509
+2012/13;Saarland;Hauptschulabschluss;1541;1133;2674
+2012/13;Saarland;Mittlerer Schulabschluss;1856;1950;3806
+2012/13;Saarland;Fachhochschulreife;-;-;-
+2012/13;Saarland;Allgemeine Hochschulreife;1413;1735;3148
+2012/13;Sachsen;Ohne Hauptschulabschluss;1567;1032;2599
+2012/13;Sachsen;Hauptschulabschluss;1780;1168;2948
+2012/13;Sachsen;Mittlerer Schulabschluss;6645;6516;13161
+2012/13;Sachsen;Fachhochschulreife;-;-;-
+2012/13;Sachsen;Allgemeine Hochschulreife;3389;3960;7349
+2012/13;Sachsen-Anhalt;Ohne Hauptschulabschluss;894;585;1479
+2012/13;Sachsen-Anhalt;Hauptschulabschluss;1027;686;1713
+2012/13;Sachsen-Anhalt;Mittlerer Schulabschluss;3923;3587;7510
+2012/13;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2012/13;Sachsen-Anhalt;Allgemeine Hochschulreife;1755;2137;3892
+2012/13;Schleswig-Holstein;Ohne Hauptschulabschluss;1335;902;2237
+2012/13;Schleswig-Holstein;Hauptschulabschluss;3822;2689;6511
+2012/13;Schleswig-Holstein;Mittlerer Schulabschluss;6096;5991;12087
+2012/13;Schleswig-Holstein;Fachhochschulreife;-;-;-
+2012/13;Schleswig-Holstein;Allgemeine Hochschulreife;4239;4900;9139
+2012/13;Thüringen;Ohne Hauptschulabschluss;729;448;1177
+2012/13;Thüringen;Hauptschulabschluss;1346;886;2232
+2012/13;Thüringen;Mittlerer Schulabschluss;3486;3438;6924
+2012/13;Thüringen;Fachhochschulreife;-;-;-
+2012/13;Thüringen;Allgemeine Hochschulreife;2072;2469;4541
+2013/14;Baden-Württemberg;Ohne Hauptschulabschluss;3539;2329;5868
+2013/14;Baden-Württemberg;Hauptschulabschluss;13031;9642;22673
+2013/14;Baden-Württemberg;Mittlerer Schulabschluss;29439;27797;57236
+2013/14;Baden-Württemberg;Fachhochschulreife;135;153;288
+2013/14;Baden-Württemberg;Allgemeine Hochschulreife;15324;18207;33531
+2013/14;Bayern;Ohne Hauptschulabschluss;3586;2306;5892
+2013/14;Bayern;Hauptschulabschluss;17925;12386;30311
+2013/14;Bayern;Mittlerer Schulabschluss;30754;32091;62845
+2013/14;Bayern;Fachhochschulreife;3;2;5
+2013/14;Bayern;Allgemeine Hochschulreife;17375;20221;37596
+2013/14;Berlin;Ohne Hauptschulabschluss;1398;1032;2430
+2013/14;Berlin;Hauptschulabschluss;2841;2249;5090
+2013/14;Berlin;Mittlerer Schulabschluss;5368;4789;10157
+2013/14;Berlin;Fachhochschulreife;-;-;-
+2013/14;Berlin;Allgemeine Hochschulreife;5618;6718;12336
+2013/14;Brandenburg;Ohne Hauptschulabschluss;908;554;1462
+2013/14;Brandenburg;Hauptschulabschluss;1647;1006;2653
+2013/14;Brandenburg;Mittlerer Schulabschluss;3920;3630;7550
+2013/14;Brandenburg;Fachhochschulreife;30;12;42
+2013/14;Brandenburg;Allgemeine Hochschulreife;2975;3520;6495
+2013/14;Bremen;Ohne Hauptschulabschluss;266;182;448
+2013/14;Bremen;Hauptschulabschluss;879;634;1513
+2013/14;Bremen;Mittlerer Schulabschluss;1356;1324;2680
+2013/14;Bremen;Fachhochschulreife;51;56;107
+2013/14;Bremen;Allgemeine Hochschulreife;1265;1521;2786
+2013/14;Hamburg;Ohne Hauptschulabschluss;461;294;755
+2013/14;Hamburg;Hauptschulabschluss;1477;1009;2486
+2013/14;Hamburg;Mittlerer Schulabschluss;2044;1726;3770
+2013/14;Hamburg;Fachhochschulreife;33;31;64
+2013/14;Hamburg;Allgemeine Hochschulreife;3963;4551;8514
+2013/14;Hessen;Ohne Hauptschulabschluss;1853;1178;3031
+2013/14;Hessen;Hauptschulabschluss;6578;4699;11277
+2013/14;Hessen;Mittlerer Schulabschluss;15039;14729;29768
+2013/14;Hessen;Fachhochschulreife;170;130;300
+2013/14;Hessen;Allgemeine Hochschulreife;11509;14495;26004
+2013/14;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;598;363;961
+2013/14;Mecklenburg-Vorpommern;Hauptschulabschluss;898;563;1461
+2013/14;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2504;2452;4956
+2013/14;Mecklenburg-Vorpommern;Fachhochschulreife;-;-;-
+2013/14;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1604;2077;3681
+2013/14;Niedersachsen;Ohne Hauptschulabschluss;2532;1713;4245
+2013/14;Niedersachsen;Hauptschulabschluss;7241;4786;12027
+2013/14;Niedersachsen;Mittlerer Schulabschluss;23011;21277;44288
+2013/14;Niedersachsen;Fachhochschulreife;-;-;-
+2013/14;Niedersachsen;Allgemeine Hochschulreife;12000;14745;26745
+2013/14;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6925;4770;11695
+2013/14;Nordrhein-Westfalen;Hauptschulabschluss;19087;13751;32838
+2013/14;Nordrhein-Westfalen;Mittlerer Schulabschluss;44781;42593;87374
+2013/14;Nordrhein-Westfalen;Fachhochschulreife;20;15;35
+2013/14;Nordrhein-Westfalen;Allgemeine Hochschulreife;35711;43430;79141
+2013/14;Rheinland-Pfalz;Ohne Hauptschulabschluss;1466;891;2357
+2013/14;Rheinland-Pfalz;Hauptschulabschluss;5232;3312;8544
+2013/14;Rheinland-Pfalz;Mittlerer Schulabschluss;9645;9586;19231
+2013/14;Rheinland-Pfalz;Fachhochschulreife;-;-;-
+2013/14;Rheinland-Pfalz;Allgemeine Hochschulreife;5998;7628;13626
+2013/14;Saarland;Ohne Hauptschulabschluss;297;192;489
+2013/14;Saarland;Hauptschulabschluss;1438;1129;2567
+2013/14;Saarland;Mittlerer Schulabschluss;1676;1776;3452
+2013/14;Saarland;Fachhochschulreife;-;-;-
+2013/14;Saarland;Allgemeine Hochschulreife;1408;1804;3212
+2013/14;Sachsen;Ohne Hauptschulabschluss;1437;911;2348
+2013/14;Sachsen;Hauptschulabschluss;1852;1216;3068
+2013/14;Sachsen;Mittlerer Schulabschluss;7472;6800;14272
+2013/14;Sachsen;Fachhochschulreife;-;-;-
+2013/14;Sachsen;Allgemeine Hochschulreife;3738;4463;8201
+2013/14;Sachsen-Anhalt;Ohne Hauptschulabschluss;946;582;1528
+2013/14;Sachsen-Anhalt;Hauptschulabschluss;1152;776;1928
+2013/14;Sachsen-Anhalt;Mittlerer Schulabschluss;4150;3880;8030
+2013/14;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2013/14;Sachsen-Anhalt;Allgemeine Hochschulreife;1877;2379;4256
+2013/14;Schleswig-Holstein;Ohne Hauptschulabschluss;1422;901;2323
+2013/14;Schleswig-Holstein;Hauptschulabschluss;3460;2469;5929
+2013/14;Schleswig-Holstein;Mittlerer Schulabschluss;6329;6332;12661
+2013/14;Schleswig-Holstein;Fachhochschulreife;-;-;-
+2013/14;Schleswig-Holstein;Allgemeine Hochschulreife;4381;4986;9367
+2013/14;Thüringen;Ohne Hauptschulabschluss;714;404;1118
+2013/14;Thüringen;Hauptschulabschluss;1340;944;2284
+2013/14;Thüringen;Mittlerer Schulabschluss;3832;3689;7521
+2013/14;Thüringen;Fachhochschulreife;-;-;-
+2013/14;Thüringen;Allgemeine Hochschulreife;2273;2726;4999
+2014/15;Baden-Württemberg;Ohne Hauptschulabschluss;3593;2175;5768
+2014/15;Baden-Württemberg;Hauptschulabschluss;12936;9269;22205
+2014/15;Baden-Württemberg;Mittlerer Schulabschluss;29340;27950;57290
+2014/15;Baden-Württemberg;Fachhochschulreife;147;198;345
+2014/15;Baden-Württemberg;Allgemeine Hochschulreife;16348;18780;35128
+2014/15;Bayern;Ohne Hauptschulabschluss;4052;2207;6259
+2014/15;Bayern;Hauptschulabschluss;17480;11676;29156
+2014/15;Bayern;Mittlerer Schulabschluss;30590;31568;62158
+2014/15;Bayern;Fachhochschulreife;5;2;7
+2014/15;Bayern;Allgemeine Hochschulreife;17857;20920;38777
+2014/15;Berlin;Ohne Hauptschulabschluss;1812;1197;3009
+2014/15;Berlin;Hauptschulabschluss;2862;2324;5186
+2014/15;Berlin;Mittlerer Schulabschluss;5562;4836;10398
+2014/15;Berlin;Fachhochschulreife;2;-;2
+2014/15;Berlin;Allgemeine Hochschulreife;5780;6965;12745
+2014/15;Brandenburg;Ohne Hauptschulabschluss;961;595;1556
+2014/15;Brandenburg;Hauptschulabschluss;1692;1141;2833
+2014/15;Brandenburg;Mittlerer Schulabschluss;4678;4260;8938
+2014/15;Brandenburg;Fachhochschulreife;8;8;16
+2014/15;Brandenburg;Allgemeine Hochschulreife;3506;4003;7509
+2014/15;Bremen;Ohne Hauptschulabschluss;268;179;447
+2014/15;Bremen;Hauptschulabschluss;787;608;1395
+2014/15;Bremen;Mittlerer Schulabschluss;1455;1315;2770
+2014/15;Bremen;Fachhochschulreife;146;100;246
+2014/15;Bremen;Allgemeine Hochschulreife;1391;1611;3002
+2014/15;Hamburg;Ohne Hauptschulabschluss;523;374;897
+2014/15;Hamburg;Hauptschulabschluss;1593;1189;2782
+2014/15;Hamburg;Mittlerer Schulabschluss;2045;1798;3843
+2014/15;Hamburg;Fachhochschulreife;-;-;-
+2014/15;Hamburg;Allgemeine Hochschulreife;4240;4847;9087
+2014/15;Hessen;Ohne Hauptschulabschluss;1589;953;2542
+2014/15;Hessen;Hauptschulabschluss;5730;4032;9762
+2014/15;Hessen;Mittlerer Schulabschluss;14254;13698;27952
+2014/15;Hessen;Fachhochschulreife;167;147;314
+2014/15;Hessen;Allgemeine Hochschulreife;9885;12212;22097
+2014/15;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;643;357;1000
+2014/15;Mecklenburg-Vorpommern;Hauptschulabschluss;1024;668;1692
+2014/15;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2637;2434;5071
+2014/15;Mecklenburg-Vorpommern;Fachhochschulreife;-;-;-
+2014/15;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;1886;2362;4248
+2014/15;Niedersachsen;Ohne Hauptschulabschluss;2662;1677;4339
+2014/15;Niedersachsen;Hauptschulabschluss;6828;4292;11120
+2014/15;Niedersachsen;Mittlerer Schulabschluss;21967;20471;42438
+2014/15;Niedersachsen;Fachhochschulreife;-;-;-
+2014/15;Niedersachsen;Allgemeine Hochschulreife;12346;15563;27909
+2014/15;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6462;4592;11054
+2014/15;Nordrhein-Westfalen;Hauptschulabschluss;17922;12716;30638
+2014/15;Nordrhein-Westfalen;Mittlerer Schulabschluss;44119;41366;85485
+2014/15;Nordrhein-Westfalen;Fachhochschulreife;22;18;40
+2014/15;Nordrhein-Westfalen;Allgemeine Hochschulreife;36110;43779;79889
+2014/15;Rheinland-Pfalz;Ohne Hauptschulabschluss;1642;964;2606
+2014/15;Rheinland-Pfalz;Hauptschulabschluss;4930;3213;8143
+2014/15;Rheinland-Pfalz;Mittlerer Schulabschluss;9092;9039;18131
+2014/15;Rheinland-Pfalz;Fachhochschulreife;-;-;-
+2014/15;Rheinland-Pfalz;Allgemeine Hochschulreife;6420;7793;14213
+2014/15;Saarland;Ohne Hauptschulabschluss;281;157;438
+2014/15;Saarland;Hauptschulabschluss;1352;1020;2372
+2014/15;Saarland;Mittlerer Schulabschluss;1542;1613;3155
+2014/15;Saarland;Fachhochschulreife;-;-;-
+2014/15;Saarland;Allgemeine Hochschulreife;1590;1889;3479
+2014/15;Sachsen;Ohne Hauptschulabschluss;1412;942;2354
+2014/15;Sachsen;Hauptschulabschluss;1671;1129;2800
+2014/15;Sachsen;Mittlerer Schulabschluss;7375;7018;14393
+2014/15;Sachsen;Fachhochschulreife;-;-;-
+2014/15;Sachsen;Allgemeine Hochschulreife;4299;5018;9317
+2014/15;Sachsen-Anhalt;Ohne Hauptschulabschluss;1073;662;1735
+2014/15;Sachsen-Anhalt;Hauptschulabschluss;1182;778;1960
+2014/15;Sachsen-Anhalt;Mittlerer Schulabschluss;4299;3980;8279
+2014/15;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2014/15;Sachsen-Anhalt;Allgemeine Hochschulreife;2180;2715;4895
+2014/15;Schleswig-Holstein;Ohne Hauptschulabschluss;1371;863;2234
+2014/15;Schleswig-Holstein;Hauptschulabschluss;3204;2371;5575
+2014/15;Schleswig-Holstein;Mittlerer Schulabschluss;6146;6189;12335
+2014/15;Schleswig-Holstein;Fachhochschulreife;3;-;3
+2014/15;Schleswig-Holstein;Allgemeine Hochschulreife;4686;5299;9985
+2014/15;Thüringen;Ohne Hauptschulabschluss;743;454;1197
+2014/15;Thüringen;Hauptschulabschluss;1401;928;2329
+2014/15;Thüringen;Mittlerer Schulabschluss;3848;3610;7458
+2014/15;Thüringen;Fachhochschulreife;-;-;-
+2014/15;Thüringen;Allgemeine Hochschulreife;2591;2991;5582
+2015/16;Baden-Württemberg;Ohne Hauptschulabschluss;3712;2413;6125
+2015/16;Baden-Württemberg;Hauptschulabschluss;12668;9190;21858
+2015/16;Baden-Württemberg;Mittlerer Schulabschluss;29055;27075;56130
+2015/16;Baden-Württemberg;Fachhochschulreife;169;193;362
+2015/16;Baden-Württemberg;Allgemeine Hochschulreife;15935;18696;34631
+2015/16;Bayern;Ohne Hauptschulabschluss;4607;2426;7033
+2015/16;Bayern;Hauptschulabschluss;17127;11602;28729
+2015/16;Bayern;Mittlerer Schulabschluss;32191;33214;65405
+2015/16;Bayern;Fachhochschulreife;3;1;4
+2015/16;Bayern;Allgemeine Hochschulreife;17955;21030;38985
+2015/16;Berlin;Ohne Hauptschulabschluss;1493;997;2490
+2015/16;Berlin;Hauptschulabschluss;2575;1970;4545
+2015/16;Berlin;Mittlerer Schulabschluss;5249;4644;9893
+2015/16;Berlin;Fachhochschulreife;-;-;-
+2015/16;Berlin;Allgemeine Hochschulreife;6550;7555;14105
+2015/16;Brandenburg;Ohne Hauptschulabschluss;965;558;1523
+2015/16;Brandenburg;Hauptschulabschluss;1778;1113;2891
+2015/16;Brandenburg;Mittlerer Schulabschluss;4532;4105;8637
+2015/16;Brandenburg;Fachhochschulreife;24;8;32
+2015/16;Brandenburg;Allgemeine Hochschulreife;3574;4348;7922
+2015/16;Bremen;Ohne Hauptschulabschluss;246;191;437
+2015/16;Bremen;Hauptschulabschluss;744;517;1261
+2015/16;Bremen;Mittlerer Schulabschluss;1298;1165;2463
+2015/16;Bremen;Fachhochschulreife;-;-;-
+2015/16;Bremen;Allgemeine Hochschulreife;1275;1556;2831
+2015/16;Hamburg;Ohne Hauptschulabschluss;591;401;992
+2015/16;Hamburg;Hauptschulabschluss;1471;1117;2588
+2015/16;Hamburg;Mittlerer Schulabschluss;2142;1802;3944
+2015/16;Hamburg;Fachhochschulreife;-;-;-
+2015/16;Hamburg;Allgemeine Hochschulreife;4367;5053;9420
+2015/16;Hessen;Ohne Hauptschulabschluss;1947;1270;3217
+2015/16;Hessen;Hauptschulabschluss;6588;4686;11274
+2015/16;Hessen;Mittlerer Schulabschluss;14941;14434;29375
+2015/16;Hessen;Fachhochschulreife;173;118;291
+2015/16;Hessen;Allgemeine Hochschulreife;9450;11595;21045
+2015/16;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;735;440;1175
+2015/16;Mecklenburg-Vorpommern;Hauptschulabschluss;1010;701;1711
+2015/16;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2671;2527;5198
+2015/16;Mecklenburg-Vorpommern;Fachhochschulreife;-;-;-
+2015/16;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;2032;2447;4479
+2015/16;Niedersachsen;Ohne Hauptschulabschluss;2676;1615;4291
+2015/16;Niedersachsen;Hauptschulabschluss;6837;4496;11333
+2015/16;Niedersachsen;Mittlerer Schulabschluss;21373;19604;40977
+2015/16;Niedersachsen;Fachhochschulreife;-;-;-
+2015/16;Niedersachsen;Allgemeine Hochschulreife;12468;15096;27564
+2015/16;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6453;4352;10805
+2015/16;Nordrhein-Westfalen;Hauptschulabschluss;17702;12066;29768
+2015/16;Nordrhein-Westfalen;Mittlerer Schulabschluss;42747;40084;82831
+2015/16;Nordrhein-Westfalen;Fachhochschulreife;48;41;89
+2015/16;Nordrhein-Westfalen;Allgemeine Hochschulreife;35838;43722;79560
+2015/16;Rheinland-Pfalz;Ohne Hauptschulabschluss;1607;918;2525
+2015/16;Rheinland-Pfalz;Hauptschulabschluss;4871;3191;8062
+2015/16;Rheinland-Pfalz;Mittlerer Schulabschluss;8482;8462;16944
+2015/16;Rheinland-Pfalz;Fachhochschulreife;-;-;-
+2015/16;Rheinland-Pfalz;Allgemeine Hochschulreife;6987;8713;15700
+2015/16;Saarland;Ohne Hauptschulabschluss;434;228;662
+2015/16;Saarland;Hauptschulabschluss;1291;982;2273
+2015/16;Saarland;Mittlerer Schulabschluss;1658;1656;3314
+2015/16;Saarland;Fachhochschulreife;-;-;-
+2015/16;Saarland;Allgemeine Hochschulreife;1543;1760;3303
+2015/16;Sachsen;Ohne Hauptschulabschluss;1570;963;2533
+2015/16;Sachsen;Hauptschulabschluss;1728;1070;2798
+2015/16;Sachsen;Mittlerer Schulabschluss;8107;7564;15671
+2015/16;Sachsen;Fachhochschulreife;-;-;-
+2015/16;Sachsen;Allgemeine Hochschulreife;4373;5245;9618
+2015/16;Sachsen-Anhalt;Ohne Hauptschulabschluss;1078;585;1663
+2015/16;Sachsen-Anhalt;Hauptschulabschluss;1282;828;2110
+2015/16;Sachsen-Anhalt;Mittlerer Schulabschluss;4604;4124;8728
+2015/16;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2015/16;Sachsen-Anhalt;Allgemeine Hochschulreife;2327;2820;5147
+2015/16;Schleswig-Holstein;Ohne Hauptschulabschluss;1484;952;2436
+2015/16;Schleswig-Holstein;Hauptschulabschluss;3300;2272;5572
+2015/16;Schleswig-Holstein;Mittlerer Schulabschluss;6174;6089;12263
+2015/16;Schleswig-Holstein;Fachhochschulreife;-;-;-
+2015/16;Schleswig-Holstein;Allgemeine Hochschulreife;7797;9128;16925
+2015/16;Thüringen;Ohne Hauptschulabschluss;846;440;1286
+2015/16;Thüringen;Hauptschulabschluss;1394;1076;2470
+2015/16;Thüringen;Mittlerer Schulabschluss;3844;3613;7457
+2015/16;Thüringen;Fachhochschulreife;-;-;-
+2015/16;Thüringen;Allgemeine Hochschulreife;2601;3331;5932
+2016/17;Baden-Württemberg;Ohne Hauptschulabschluss;4626;2813;7439
+2016/17;Baden-Württemberg;Hauptschulabschluss;10329;7324;17653
+2016/17;Baden-Württemberg;Mittlerer Schulabschluss;27725;26090;53815
+2016/17;Baden-Württemberg;Fachhochschulreife;176;179;355
+2016/17;Baden-Württemberg;Allgemeine Hochschulreife;15870;18083;33953
+2016/17;Bayern;Ohne Hauptschulabschluss;4935;2561;7496
+2016/17;Bayern;Hauptschulabschluss;16110;10749;26859
+2016/17;Bayern;Mittlerer Schulabschluss;31337;31314;62651
+2016/17;Bayern;Fachhochschulreife;-;-;-
+2016/17;Bayern;Allgemeine Hochschulreife;18112;20959;39071
+2016/17;Berlin;Ohne Hauptschulabschluss;1721;1262;2983
+2016/17;Berlin;Hauptschulabschluss;2522;2043;4565
+2016/17;Berlin;Mittlerer Schulabschluss;5321;4465;9786
+2016/17;Berlin;Fachhochschulreife;-;-;-
+2016/17;Berlin;Allgemeine Hochschulreife;7028;8087;15115
+2016/17;Brandenburg;Ohne Hauptschulabschluss;1010;554;1564
+2016/17;Brandenburg;Hauptschulabschluss;1729;1068;2797
+2016/17;Brandenburg;Mittlerer Schulabschluss;4171;3886;8057
+2016/17;Brandenburg;Fachhochschulreife;-;-;-
+2016/17;Brandenburg;Allgemeine Hochschulreife;4053;4892;8945
+2016/17;Bremen;Ohne Hauptschulabschluss;354;226;580
+2016/17;Bremen;Hauptschulabschluss;789;538;1327
+2016/17;Bremen;Mittlerer Schulabschluss;1300;1196;2496
+2016/17;Bremen;Fachhochschulreife;-;-;-
+2016/17;Bremen;Allgemeine Hochschulreife;1189;1403;2592
+2016/17;Hamburg;Ohne Hauptschulabschluss;512;384;896
+2016/17;Hamburg;Hauptschulabschluss;1915;1263;3178
+2016/17;Hamburg;Mittlerer Schulabschluss;2150;1884;4034
+2016/17;Hamburg;Fachhochschulreife;-;-;-
+2016/17;Hamburg;Allgemeine Hochschulreife;4238;4800;9038
+2016/17;Hessen;Ohne Hauptschulabschluss;1870;1223;3093
+2016/17;Hessen;Hauptschulabschluss;7164;4776;11940
+2016/17;Hessen;Mittlerer Schulabschluss;14282;13481;27763
+2016/17;Hessen;Fachhochschulreife;130;103;233
+2016/17;Hessen;Allgemeine Hochschulreife;9248;11490;20738
+2016/17;Mecklenburg-Vorpommern;Ohne Hauptschulabschluss;726;407;1133
+2016/17;Mecklenburg-Vorpommern;Hauptschulabschluss;1090;659;1749
+2016/17;Mecklenburg-Vorpommern;Mittlerer Schulabschluss;2815;2533;5348
+2016/17;Mecklenburg-Vorpommern;Fachhochschulreife;-;-;-
+2016/17;Mecklenburg-Vorpommern;Allgemeine Hochschulreife;2054;2529;4583
+2016/17;Niedersachsen;Ohne Hauptschulabschluss;3042;1788;4830
+2016/17;Niedersachsen;Hauptschulabschluss;7200;4486;11686
+2016/17;Niedersachsen;Mittlerer Schulabschluss;20748;18435;39183
+2016/17;Niedersachsen;Fachhochschulreife;-;-;-
+2016/17;Niedersachsen;Allgemeine Hochschulreife;11978;14778;26756
+2016/17;Nordrhein-Westfalen;Ohne Hauptschulabschluss;6781;4368;11149
+2016/17;Nordrhein-Westfalen;Hauptschulabschluss;17196;11959;29155
+2016/17;Nordrhein-Westfalen;Mittlerer Schulabschluss;41853;39000;80853
+2016/17;Nordrhein-Westfalen;Fachhochschulreife;30;10;40
+2016/17;Nordrhein-Westfalen;Allgemeine Hochschulreife;34423;41615;76038
+2016/17;Rheinland-Pfalz;Ohne Hauptschulabschluss;1716;1069;2785
+2016/17;Rheinland-Pfalz;Hauptschulabschluss;5111;3164;8275
+2016/17;Rheinland-Pfalz;Mittlerer Schulabschluss;8067;8004;16071
+2016/17;Rheinland-Pfalz;Fachhochschulreife;-;-;-
+2016/17;Rheinland-Pfalz;Allgemeine Hochschulreife;6651;8379;15030
+2016/17;Saarland;Ohne Hauptschulabschluss;399;211;610
+2016/17;Saarland;Hauptschulabschluss;1384;1050;2434
+2016/17;Saarland;Mittlerer Schulabschluss;1569;1521;3090
+2016/17;Saarland;Fachhochschulreife;-;-;-
+2016/17;Saarland;Allgemeine Hochschulreife;1396;1686;3082
+2016/17;Sachsen;Ohne Hauptschulabschluss;1579;987;2566
+2016/17;Sachsen;Hauptschulabschluss;1821;1137;2958
+2016/17;Sachsen;Mittlerer Schulabschluss;8222;7384;15606
+2016/17;Sachsen;Fachhochschulreife;-;-;-
+2016/17;Sachsen;Allgemeine Hochschulreife;4754;5578;10332
+2016/17;Sachsen-Anhalt;Ohne Hauptschulabschluss;1102;647;1749
+2016/17;Sachsen-Anhalt;Hauptschulabschluss;1179;758;1937
+2016/17;Sachsen-Anhalt;Mittlerer Schulabschluss;4588;4145;8733
+2016/17;Sachsen-Anhalt;Fachhochschulreife;-;-;-
+2016/17;Sachsen-Anhalt;Allgemeine Hochschulreife;2303;2853;5156
+2016/17;Schleswig-Holstein;Ohne Hauptschulabschluss;1464;829;2293
+2016/17;Schleswig-Holstein;Hauptschulabschluss;3176;2175;5351
+2016/17;Schleswig-Holstein;Mittlerer Schulabschluss;5912;5764;11676
+2016/17;Schleswig-Holstein;Fachhochschulreife;-;-;-
+2016/17;Schleswig-Holstein;Allgemeine Hochschulreife;5261;5851;11112
+2016/17;Thüringen;Ohne Hauptschulabschluss;1021;498;1519
+2016/17;Thüringen;Hauptschulabschluss;1483;1042;2525
+2016/17;Thüringen;Mittlerer Schulabschluss;3980;3670;7650
+2016/17;Thüringen;Fachhochschulreife;-;-;-
+2016/17;Thüringen;Allgemeine Hochschulreife;2580;3177;5757
+__________
+"Ab 2012/13:
+Mittlerer Schulabschluss einschließlich schulischer Teil der
+Fachhochschulreife."
+(C)opyright Statistisches Bundesamt (Destatis), 2019
+Stand: 23.05.2019 / 11:37:27

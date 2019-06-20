@@ -1,0 +1,212 @@
+GENESIS-Tabelle: 13111-0004
+Sozialversicherungspflichtig Beschäftigte am Arbeitsort:;;;;;;;;;;;;;;
+Deutschland, Stichtag, Geschlecht, Beschäftigungsumfang,;;;;;;;;;;;;;;
+Wirtschaftsabschnitte;;;;;;;;;;;;;;
+Statistik d. sozialversicherungspfl. Beschäftigten;;;;;;;;;;;;;;
+Deutschland;;;;;;;;;;;;;;
+Sozialvers.pflichtig Beschäftigte am Arbeitsort (Anzahl);;;;;;;;;;;;;;
+;;;;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag;Stichtag
+;;;;31.12.2008;31.12.2009;31.12.2010;31.12.2011;31.12.2012;31.12.2013;31.12.2014;31.12.2015;31.12.2016;31.12.2017;30.06.2018
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Vollzeit;männlich;122203;121445;122500;125085;126466;128594;131241;132617;131105;132114;150556
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Vollzeit;weiblich;52408;51403;50815;45078;45349;45643;45933;45421;44319;43849;50673
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Vollzeit;Insgesamt;174611;172848;173315;170163;171815;174237;177174;178038;175424;175963;201229
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Teilzeit;männlich;4991;5725;5975;9939;11432;12158;13559;15349;16394;17563;19874
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Teilzeit;weiblich;11054;11944;12507;20011;21919;22220;23393;25324;26277;27484;29880
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Teilzeit;Insgesamt;16045;17669;18482;29950;33351;34378;36952;40673;42671;45047;49754
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Ohne Angabe;männlich;38;39;49;135;7;.;-;-;-;-;-
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Ohne Angabe;weiblich;52;50;47;50;7;3;-;-;-;-;-
+WZ08-A;Land- und Forstwirtschaft, Fischerei;Ohne Angabe;Insgesamt;90;89;96;185;14;5;-;-;-;-;-
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Vollzeit;männlich;83383;80246;77356;75189;72393;68821;66133;62653;58603;57044;57612
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Vollzeit;weiblich;7435;7608;7544;6840;6639;6615;6548;6388;6135;6152;6182
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Vollzeit;Insgesamt;90818;87854;84900;82029;79032;75436;72681;69041;64738;63196;63794
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Teilzeit;männlich;695;741;657;1398;1501;1282;1177;1147;1187;1306;1416
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Teilzeit;weiblich;1382;1376;1404;2264;2432;2391;2381;2341;2363;2464;2527
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Teilzeit;Insgesamt;2077;2117;2061;3662;3933;3673;3558;3488;3550;3770;3943
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Ohne Angabe;männlich;20;24;25;4;16;.;-;-;-;-;-
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Ohne Angabe;weiblich;5;4;5;.;.;-;-;-;-;-;-
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;Ohne Angabe;Insgesamt;25;28;30;6;17;.;-;-;-;-;-
+WZ08-C;Verarbeitendes Gewerbe;Vollzeit;männlich;4793191;4568513;4589924;4720219;4778116;4801998;4844475;4884221;4912826;4965227;5009576
+WZ08-C;Verarbeitendes Gewerbe;Vollzeit;weiblich;1325374;1260483;1265174;1200851;1210851;1217384;1227066;1230649;1230062;1239125;1246033
+WZ08-C;Verarbeitendes Gewerbe;Vollzeit;Insgesamt;6118565;5828996;5855098;5921070;5988967;6019382;6071541;6114870;6142888;6204352;6255609
+WZ08-C;Verarbeitendes Gewerbe;Teilzeit;männlich;125763;143005;136752;128426;130913;125446;131000;135550;144217;154996;160272
+WZ08-C;Verarbeitendes Gewerbe;Teilzeit;weiblich;322436;326727;333672;438276;453253;451098;464435;486290;498711;511301;514955
+WZ08-C;Verarbeitendes Gewerbe;Teilzeit;Insgesamt;448199;469732;470424;566702;584166;576544;595435;621840;642928;666297;675227
+WZ08-C;Verarbeitendes Gewerbe;Ohne Angabe;männlich;1070;1002;1352;558;117;44;3;.;0;-;-
+WZ08-C;Verarbeitendes Gewerbe;Ohne Angabe;weiblich;503;507;618;228;57;13;-;-;-;-;-
+WZ08-C;Verarbeitendes Gewerbe;Ohne Angabe;Insgesamt;1573;1509;1970;786;174;57;3;.;-;-;-
+WZ08-D;Energieversorgung;Vollzeit;männlich;169721;166870;168174;171258;169656;169244;165188;163141;162778;162072;161431
+WZ08-D;Energieversorgung;Vollzeit;weiblich;41903;42569;43843;43389;43976;44059;42157;41424;41186;41008;41305
+WZ08-D;Energieversorgung;Vollzeit;Insgesamt;211624;209439;212017;214647;213632;213303;207345;204565;203964;203080;202736
+WZ08-D;Energieversorgung;Teilzeit;männlich;10488;13611;12987;6277;6299;6127;5945;5894;6281;6873;7170
+WZ08-D;Energieversorgung;Teilzeit;weiblich;14004;15281;15865;16518;16964;17153;17234;17882;18642;19738;20035
+WZ08-D;Energieversorgung;Teilzeit;Insgesamt;24492;28892;28852;22795;23263;23280;23179;23776;24923;26611;27205
+WZ08-D;Energieversorgung;Ohne Angabe;männlich;32;39;39;8;.;.;-;-;-;-;-
+WZ08-D;Energieversorgung;Ohne Angabe;weiblich;24;25;29;3;.;.;-;-;-;-;-
+WZ08-D;Energieversorgung;Ohne Angabe;Insgesamt;56;64;68;11;.;.;-;-;-;-;-
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Vollzeit;männlich;171940;170229;171510;177291;178582;180400;181953;184129;187402;191656;194695
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Vollzeit;weiblich;29993;29539;29602;28443;28247;28543;29149;29643;29752;30300;30430
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Vollzeit;Insgesamt;201933;199768;201112;205734;206829;208943;211102;213772;217154;221956;225125
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Teilzeit;männlich;7302;9171;9097;7675;7567;7306;7079;7039;7331;7607;7907
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Teilzeit;weiblich;10846;11568;12012;14273;14527;14933;15028;15454;15885;16413;16604
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Teilzeit;Insgesamt;18148;20739;21109;21948;22094;22239;22107;22493;23216;24020;24511
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Ohne Angabe;männlich;51;58;55;29;6;3;-;-;-;-;-
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Ohne Angabe;weiblich;19;19;21;8;4;.;-;-;-;-;-
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;Ohne Angabe;Insgesamt;70;77;76;37;10;4;-;-;-;-;-
+WZ08-F;Baugewerbe;Vollzeit;männlich;1312424;1318826;1339624;1348321;1342716;1351399;1357072;1376867;1413282;1449473;1493834
+WZ08-F;Baugewerbe;Vollzeit;weiblich;151598;148835;149493;125670;123824;123016;122744;122828;124328;125844;125925
+WZ08-F;Baugewerbe;Vollzeit;Insgesamt;1464022;1467661;1489117;1473991;1466540;1474415;1479816;1499695;1537610;1575317;1619759
+WZ08-F;Baugewerbe;Teilzeit;männlich;22193;24697;27405;54486;64051;67293;75817;85140;93303;100615;113080
+WZ08-F;Baugewerbe;Teilzeit;weiblich;53534;56429;59063;88570;95131;97964;101230;104874;108319;112296;114393
+WZ08-F;Baugewerbe;Teilzeit;Insgesamt;75727;81126;86468;143056;159182;165257;177047;190014;201622;212911;227473
+WZ08-F;Baugewerbe;Ohne Angabe;männlich;303;339;413;733;123;22;3;.;.;-;-
+WZ08-F;Baugewerbe;Ohne Angabe;weiblich;89;115;183;75;13;6;.;.;0;-;-
+WZ08-F;Baugewerbe;Ohne Angabe;Insgesamt;392;454;596;808;136;28;5;4;.;-;-
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Vollzeit;männlich;1863761;1826386;1834445;1861127;1858816;1855716;1852844;1862405;1894317;1929720;1912384
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Vollzeit;weiblich;1248680;1221988;1214196;1110077;1098348;1087838;1080699;1074375;1072187;1071470;1051214
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Vollzeit;Insgesamt;3112441;3048374;3048641;2971204;2957164;2943554;2933543;2936780;2966504;3001190;2963598
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Teilzeit;männlich;103161;111926;122546;148379;161882;173271;186206;207133;219340;231868;240767
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Teilzeit;weiblich;847903;861232;894913;1050909;1079953;1100604;1138156;1192587;1219228;1242828;1243859
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Teilzeit;Insgesamt;951064;973158;1017459;1199288;1241835;1273875;1324362;1399720;1438568;1474696;1484626
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Ohne Angabe;männlich;1185;1366;1826;616;104;33;6;.;0;-;-
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Ohne Angabe;weiblich;807;1017;1273;565;141;27;.;-;-;-;-
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;Ohne Angabe;Insgesamt;1992;2383;3099;1181;245;60;7;.;-;-;-
+WZ08-H;Verkehr und Lagerei;Vollzeit;männlich;972456;946135;973194;999991;1006811;1019628;1038201;1071797;1101793;1145818;1173738
+WZ08-H;Verkehr und Lagerei;Vollzeit;weiblich;233108;224987;221864;214676;217309;222252;224614;229939;235844;243675;250148
+WZ08-H;Verkehr und Lagerei;Vollzeit;Insgesamt;1205564;1171122;1195058;1214667;1224120;1241880;1262815;1301736;1337637;1389493;1423886
+WZ08-H;Verkehr und Lagerei;Teilzeit;männlich;81686;89145;95583;107559;118975;127597;139458;159488;171306;181973;177855
+WZ08-H;Verkehr und Lagerei;Teilzeit;weiblich;127805;130091;135582;154498;157609;161739;166679;177457;183889;190618;189427
+WZ08-H;Verkehr und Lagerei;Teilzeit;Insgesamt;209491;219236;231165;262057;276584;289336;306137;336945;355195;372591;367282
+WZ08-H;Verkehr und Lagerei;Ohne Angabe;männlich;313;394;431;512;43;11;.;-;-;-;-
+WZ08-H;Verkehr und Lagerei;Ohne Angabe;weiblich;176;226;261;112;22;5;.;.;0;-;-
+WZ08-H;Verkehr und Lagerei;Ohne Angabe;Insgesamt;489;620;692;624;65;16;3;.;-;-;-
+WZ08-I;Gastgewerbe;Vollzeit;männlich;278912;278453;280969;271497;267039;265103;269715;279020;289127;298375;309442
+WZ08-I;Gastgewerbe;Vollzeit;weiblich;322020;317541;315204;269961;264418;263165;262021;263178;262862;261160;268182
+WZ08-I;Gastgewerbe;Vollzeit;Insgesamt;600932;595994;596173;541458;531457;528268;531736;542198;551989;559535;577624
+WZ08-I;Gastgewerbe;Teilzeit;männlich;53069;59937;65184;87050;108179;120732;134495;156537;167234;176802;187273
+WZ08-I;Gastgewerbe;Teilzeit;weiblich;126889;137579;145510;205841;227938;233453;249935;279192;291570;300939;318786
+WZ08-I;Gastgewerbe;Teilzeit;Insgesamt;179958;197516;210694;292891;336117;354185;384430;435729;458804;477741;506059
+WZ08-I;Gastgewerbe;Ohne Angabe;männlich;185;225;236;673;67;8;-;-;-;-;-
+WZ08-I;Gastgewerbe;Ohne Angabe;weiblich;195;291;299;474;63;10;-;-;-;-;-
+WZ08-I;Gastgewerbe;Ohne Angabe;Insgesamt;380;516;535;1147;130;18;-;-;-;-;-
+WZ08-J;Information und Kommunikation;Vollzeit;männlich;494583;488667;496763;516618;541898;548780;562182;576099;598093;626604;642456
+WZ08-J;Information und Kommunikation;Vollzeit;weiblich;223150;217498;216067;203937;210748;212449;215383;218469;225456;234682;241066
+WZ08-J;Information und Kommunikation;Vollzeit;Insgesamt;717733;706165;712830;720555;752646;761229;777565;794568;823549;861286;883522
+WZ08-J;Information und Kommunikation;Teilzeit;männlich;34042;35842;35175;39889;44060;46833;49398;54161;59444;65590;68689
+WZ08-J;Information und Kommunikation;Teilzeit;weiblich;71437;72679;74108;94647;100069;101437;104318;109262;114644;121529;124128
+WZ08-J;Information und Kommunikation;Teilzeit;Insgesamt;105479;108521;109283;134536;144129;148270;153716;163423;174088;187119;192817
+WZ08-J;Information und Kommunikation;Ohne Angabe;männlich;1557;1163;1350;169;18;5;3;.;0;-;-
+WZ08-J;Information und Kommunikation;Ohne Angabe;weiblich;778;636;726;111;17;3;-;-;-;-;-
+WZ08-J;Information und Kommunikation;Ohne Angabe;Insgesamt;2335;1799;2076;280;35;8;3;.;-;-;-
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Vollzeit;männlich;416082;409405;409668;421488;424441;421007;418922;417323;411231;404088;399039
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Vollzeit;weiblich;373864;366014;361283;341493;340846;335966;329701;322923;311959;301349;295689
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Vollzeit;Insgesamt;789946;775419;770951;762981;765287;756973;748623;740246;723190;705437;694728
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Teilzeit;männlich;28757;33935;32281;21674;22058;23104;24532;26244;28046;29851;30400
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Teilzeit;weiblich;194701;202401;205549;224957;230018;233498;237486;241481;242956;243426;240530
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Teilzeit;Insgesamt;223458;236336;237830;246631;252076;256602;262018;267725;271002;273277;270930
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Ohne Angabe;männlich;158;178;219;55;14;5;-;-;-;-;-
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Ohne Angabe;weiblich;164;171;262;59;8;8;-;-;-;-;-
+WZ08-K;Erbringung von Finanz- und Versicherungsleistungen;Ohne Angabe;Insgesamt;322;349;481;114;22;13;-;-;-;-;-
+WZ08-L;Grundstücks- und Wohnungswesen;Vollzeit;männlich;90893;91249;91441;91815;96143;96869;96545;100053;102690;106418;107310
+WZ08-L;Grundstücks- und Wohnungswesen;Vollzeit;weiblich;78999;79122;79671;72025;74057;75312;74750;75422;76821;78557;79044
+WZ08-L;Grundstücks- und Wohnungswesen;Vollzeit;Insgesamt;169892;170371;171112;163840;170200;172181;171295;175475;179511;184975;186354
+WZ08-L;Grundstücks- und Wohnungswesen;Teilzeit;männlich;8162;9044;9362;12100;14011;15605;16730;18520;20173;21781;22472
+WZ08-L;Grundstücks- und Wohnungswesen;Teilzeit;weiblich;25995;27704;28490;38989;42387;43977;46287;48918;52122;55298;56482
+WZ08-L;Grundstücks- und Wohnungswesen;Teilzeit;Insgesamt;34157;36748;37852;51089;56398;59582;63017;67438;72295;77079;78954
+WZ08-L;Grundstücks- und Wohnungswesen;Ohne Angabe;männlich;69;96;153;41;14;3;.;-;-;-;-
+WZ08-L;Grundstücks- und Wohnungswesen;Ohne Angabe;weiblich;72;113;133;46;3;.;-;-;-;-;-
+WZ08-L;Grundstücks- und Wohnungswesen;Ohne Angabe;Insgesamt;141;209;286;87;17;4;.;-;-;-;-
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Vollzeit;männlich;682924;679674;699546;748895;797343;820626;860484;877579;906969;946098;960372
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Vollzeit;weiblich;638069;633876;643841;601643;627862;644354;670357;679368;694065;713782;716123
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Vollzeit;Insgesamt;1320993;1313550;1343387;1350538;1425205;1464980;1530841;1556947;1601034;1659880;1676495
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Teilzeit;männlich;47642;51309;52740;61331;71402;78272;85303;94877;103731;116278;122197
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Teilzeit;weiblich;181702;193836;204393;288226;315730;329502;353719;372989;393284;418953;428632
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Teilzeit;Insgesamt;229344;245145;257133;349557;387132;407774;439022;467866;497015;535231;550829
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Ohne Angabe;männlich;942;948;1112;196;34;11;4;-;-;-;-
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Ohne Angabe;weiblich;753;774;938;222;56;11;3;.;0;-;-
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;Ohne Angabe;Insgesamt;1695;1722;2050;418;90;22;7;.;-;-;-
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Vollzeit;männlich;862269;816117;970315;1002520;950016;971573;998051;1060080;1107489;1165431;1169420
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Vollzeit;weiblich;426220;409987;451281;412989;403234;408349;415803;426371;437776;450694;446655
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Vollzeit;Insgesamt;1288489;1226104;1421596;1415509;1353250;1379922;1413854;1486451;1545265;1616125;1616075
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Teilzeit;männlich;86541;95765;109430;132075;151551;164789;182587;210618;228448;244012;254161
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Teilzeit;weiblich;292887;311427;331332;404650;423981;433420;455117;482376;499319;513368;517622
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Teilzeit;Insgesamt;379428;407192;440762;536725;575532;598209;637704;692994;727767;757380;771783
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Ohne Angabe;männlich;392;547;588;999;82;20;.;-;-;-;-
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Ohne Angabe;weiblich;389;416;510;580;72;12;.;-;-;-;-
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;Ohne Angabe;Insgesamt;781;963;1098;1579;154;32;3;-;-;-;-
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Vollzeit;männlich;552746;545939;541842;565615;566992;564902;560891;562983;573382;579002;578918
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Vollzeit;weiblich;539961;540305;539003;552578;564074;568255;568865;574762;587405;593083;591214
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Vollzeit;Insgesamt;1092707;1086244;1080845;1118193;1131066;1133157;1129756;1137745;1160787;1172085;1170132
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Teilzeit;männlich;87022;96696;91939;65403;63268;64346;60374;60082;63378;65949;67611
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Teilzeit;weiblich;487353;508709;514135;505591;507211;516310;517710;523953;538102;551603;554670
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Teilzeit;Insgesamt;574375;605405;606074;570994;570479;580656;578084;584035;601480;617552;622281
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Ohne Angabe;männlich;425;211;909;415;93;9;8;.;0;-;-
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Ohne Angabe;weiblich;383;194;805;347;63;8;.;-;-;-;-
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;Ohne Angabe;Insgesamt;808;405;1714;762;156;17;9;.;-;-;-
+WZ08-P;Erziehung und Unterricht;Vollzeit;männlich;267797;277689;267465;258563;248741;241045;238834;236408;241776;242751;235620
+WZ08-P;Erziehung und Unterricht;Vollzeit;weiblich;343841;355398;359205;350890;356529;361548;370767;374062;382471;387934;382346
+WZ08-P;Erziehung und Unterricht;Vollzeit;Insgesamt;611638;633087;626670;609453;605270;602593;609601;610470;624247;630685;617966
+WZ08-P;Erziehung und Unterricht;Teilzeit;männlich;86404;96215;96477;96056;104873;109606;111170;113425;120833;128407;129951
+WZ08-P;Erziehung und Unterricht;Teilzeit;weiblich;367228;384957;388345;411540;431321;448578;462928;479120;500434;521919;525567
+WZ08-P;Erziehung und Unterricht;Teilzeit;Insgesamt;453632;481172;484822;507596;536194;558184;574098;592545;621267;650326;655518
+WZ08-P;Erziehung und Unterricht;Ohne Angabe;männlich;724;1173;914;249;78;1260;82;7;.;-;-
+WZ08-P;Erziehung und Unterricht;Ohne Angabe;weiblich;555;855;590;299;60;814;52;5;0;-;-
+WZ08-P;Erziehung und Unterricht;Ohne Angabe;Insgesamt;1279;2028;1504;548;138;2074;134;12;.;-;-
+WZ08-Q;Gesundheits- und Sozialwesen;Vollzeit;männlich;542513;553443;566147;778672;790049;594656;790626;819214;837214;847676;838717
+WZ08-Q;Gesundheits- und Sozialwesen;Vollzeit;weiblich;1555053;1580019;1607061;1601874;1623303;1532230;1673914;1704361;1728812;1745984;1721617
+WZ08-Q;Gesundheits- und Sozialwesen;Vollzeit;Insgesamt;2097566;2133462;2173208;2380546;2413352;2126886;2464540;2523575;2566026;2593660;2560334
+WZ08-Q;Gesundheits- und Sozialwesen;Teilzeit;männlich;115856;130018;137935;152915;165565;183265;203548;222363;239941;256845;263206
+WZ08-Q;Gesundheits- und Sozialwesen;Teilzeit;weiblich;1121837;1200245;1264645;1499651;1571086;1605449;1681469;1775280;1861125;1945546;1970157
+WZ08-Q;Gesundheits- und Sozialwesen;Teilzeit;Insgesamt;1237693;1330263;1402580;1652566;1736651;1788714;1885017;1997643;2101066;2202391;2233363
+WZ08-Q;Gesundheits- und Sozialwesen;Ohne Angabe;männlich;197426;202589;203385;9760;7054;205110;8364;1236;64;5;.
+WZ08-Q;Gesundheits- und Sozialwesen;Ohne Angabe;weiblich;134718;138310;139550;7351;5101;140705;6125;964;34;4;.
+WZ08-Q;Gesundheits- und Sozialwesen;Ohne Angabe;Insgesamt;332144;340899;342935;17111;12155;345815;14489;2200;98;9;.
+WZ08-R;Kunst, Unterhaltung und Erholung;Vollzeit;männlich;92988;94457;94478;93163;94344;94772;96583;99537;102271;104877;106871
+WZ08-R;Kunst, Unterhaltung und Erholung;Vollzeit;weiblich;81507;83163;84469;78380;79437;79945;79777;81249;82451;82883;83520
+WZ08-R;Kunst, Unterhaltung und Erholung;Vollzeit;Insgesamt;174495;177620;178947;171543;173781;174717;176360;180786;184722;187760;190391
+WZ08-R;Kunst, Unterhaltung und Erholung;Teilzeit;männlich;12525;13893;13954;17410;20757;22871;24372;27650;30831;33338;35573
+WZ08-R;Kunst, Unterhaltung und Erholung;Teilzeit;weiblich;30811;32761;33722;44932;48857;50420;52893;58962;61816;64572;66967
+WZ08-R;Kunst, Unterhaltung und Erholung;Teilzeit;Insgesamt;43336;46654;47676;62342;69614;73291;77265;86612;92647;97910;102540
+WZ08-R;Kunst, Unterhaltung und Erholung;Ohne Angabe;männlich;151;149;161;85;12;5;-;-;-;-;-
+WZ08-R;Kunst, Unterhaltung und Erholung;Ohne Angabe;weiblich;139;141;170;79;10;.;-;-;-;-;-
+WZ08-R;Kunst, Unterhaltung und Erholung;Ohne Angabe;Insgesamt;290;290;331;164;22;6;-;-;-;-;-
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Vollzeit;männlich;238466;235083;224811;216788;208907;201692;199617;199557;197806;198664;197452
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Vollzeit;weiblich;348692;345688;336453;292259;284022;276948;273327;269662;266170;261942;253569
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Vollzeit;Insgesamt;587158;580771;561264;509047;492929;478640;472944;469219;463976;460606;451021
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Teilzeit;männlich;35778;38861;39664;43775;48060;52552;52894;57091;60403;65565;67916
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Teilzeit;weiblich;197701;209429;213319;256581;267323;271772;277070;290492;299670;307354;307885
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Teilzeit;Insgesamt;233479;248290;252983;300356;315383;324324;329964;347583;360073;372919;375801
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Ohne Angabe;männlich;651;793;627;165;14;316;12;3;.;-;-
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Ohne Angabe;weiblich;695;762;727;322;41;160;14;.;0;-;-
+WZ08-S;Erbringung von sonstigen Dienstleistungen;Ohne Angabe;Insgesamt;1346;1555;1354;487;55;476;26;5;.;-;-
+WZ08-T;Private Haushalte;Vollzeit;männlich;3243;3366;3459;3154;3106;3024;3104;3200;3294;3487;3585
+WZ08-T;Private Haushalte;Vollzeit;weiblich;18272;18394;18718;14933;14526;14330;14343;14036;13649;13278;13217
+WZ08-T;Private Haushalte;Vollzeit;Insgesamt;21515;21760;22177;18087;17632;17354;17447;17236;16943;16765;16802
+WZ08-T;Private Haushalte;Teilzeit;männlich;1200;1339;1469;2108;2359;2780;3051;3328;3529;3731;3871
+WZ08-T;Private Haushalte;Teilzeit;weiblich;12556;13692;14436;20522;22274;23402;25132;26647;27345;28033;28529
+WZ08-T;Private Haushalte;Teilzeit;Insgesamt;13756;15031;15905;22630;24633;26182;28183;29975;30874;31764;32400
+WZ08-T;Private Haushalte;Ohne Angabe;männlich;3;8;12;8;.;.;-;-;-;-;-
+WZ08-T;Private Haushalte;Ohne Angabe;weiblich;30;48;75;37;5;9;-;-;-;-;-
+WZ08-T;Private Haushalte;Ohne Angabe;Insgesamt;33;56;87;45;6;11;-;-;-;-;-
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Vollzeit;männlich;16461;15859;15475;14628;13787;12765;11869;11102;10575;10387;10386
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Vollzeit;weiblich;7435;7298;7152;6773;6776;6106;5802;5595;5484;5487;5474
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Vollzeit;Insgesamt;23896;23157;22627;21401;20563;18871;17671;16697;16059;15874;15860
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Teilzeit;männlich;616;675;625;611;511;537;480;461;433;447;469
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Teilzeit;weiblich;2484;2614;2572;2582;2097;2199;1929;1825;1723;1676;1720
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Teilzeit;Insgesamt;3100;3289;3197;3193;2608;2736;2409;2286;2156;2123;2189
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Ohne Angabe;männlich;32;30;73;.;4;-;-;-;-;-;-
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Ohne Angabe;weiblich;33;29;49;5;4;-;-;-;-;-;-
+WZ08-U;Exterritoriale Organisationen und Körperschaften;Ohne Angabe;Insgesamt;65;59;122;6;8;-;-;-;-;-;-
+OA;Ohne Angabe;Vollzeit;männlich;10057;3441;2977;736;967;562;400;858;526;296;661
+OA;Ohne Angabe;Vollzeit;weiblich;5887;1695;1496;458;524;317;265;571;222;178;263
+OA;Ohne Angabe;Vollzeit;Insgesamt;15944;5136;4473;1194;1491;879;665;1429;748;474;924
+OA;Ohne Angabe;Teilzeit;männlich;434;365;356;198;205;224;162;438;192;187;330
+OA;Ohne Angabe;Teilzeit;weiblich;1355;888;793;533;442;397;288;595;253;223;447
+OA;Ohne Angabe;Teilzeit;Insgesamt;1789;1253;1149;731;647;621;450;1033;445;410;777
+OA;Ohne Angabe;Ohne Angabe;männlich;1395;1584;720;333;31;-;3;-;-;-;-
+OA;Ohne Angabe;Ohne Angabe;weiblich;1103;1299;530;267;26;-;-;-;-;-;-
+OA;Ohne Angabe;Ohne Angabe;Insgesamt;2498;2883;1250;600;57;-;3;-;-;-;-
+__________
+"Quelle: Auswertungen aus der Beschäftigtenstatistik der
+        Bundesagentur für Arbeit (BA)."
+(C)opyright Statistisches Bundesamt (Destatis), 2019
+Stand: 21.05.2019 / 10:05:03

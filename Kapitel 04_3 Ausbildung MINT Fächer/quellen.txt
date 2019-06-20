@@ -1,0 +1,16 @@
+
+unece_US_DE_Percentage of Population in Life-long Learning by Sex, Country and Year 0000344.csv
+https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__04-EducatAndcommunicat/ZZZ_en_GEED_LifeLongLearnin_r.px/table/tableViewLayout1/
+
+https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__04-EducatAndcommunicat/007_en_GEECTertStudISCEDF_r.px/table/tableViewLayout1/
+unece_all_Tertiary students by ISCED-F by Field of Study, Sex, Measurement, Country and Year_c0000340.csv:
+
+Gender_Indicators_Report für Bildung von 
+https://databank.worldbank.org/Data/indicator/SE.TER.GRAD.FE.SI.ZS?id=2ddc971b&report_name=Gender_Indicators_Report
+015f4fa9-0dd4-4398-be0b-44c26c234e33_Data.csv
+
+
+https://www.oecd.org/berlin/themen/pisa-studie/
+
+https://www-genesis.destatis.de/genesis/online/data;sid=317D5A860C40AD27A91E0AD1D0EA04BE.GO_1_4?operation=statistikAbruftabellen&levelindex=0&levelid=1558604024927&index=2
+
